@@ -1,0 +1,42 @@
+ Milestone 1.1 — Research & Technical Understanding
+
+1. Internship Application Workflows & Candidate Bottlenecks
+Students applying for technical internships typically follow a repetitive manual workflow:
+1. Searching across job portals and reading unstructured job descriptions.
+2. Submitting the same generic PDF resume regardless of role requirements.
+3. Guessing which skills they lack when applications are rejected.
+4. Preparing for interviews without structured feedback tied to their actual projects.
+
+Technical Solution:
+A PDF resume contains unstructured text that downstream software cannot reliably compare against job requirements. By extracting raw text from uploaded resumes and mapping it into a validated JSON Candidate Profile (separating technical skills, education, projects, and experience), the system creates a clean, machine-readable foundation that every downstream AI module can reuse.
+
+2. Retrieval-Augmented Generation (RAG) Architecture
+Standard Large Language Models (LLMs) rely solely on static training data, which causes them to hallucinate outdated or non-existent internship openings when asked for job recommendations.
+
+How RAG Solves This 
+Indexing Phase:
+ Verified internship descriptions are split into chunks, converted into vector embeddings, and stored in a local vector database (**ChromaDB**).
+Retrieval Phase:
+ A candidate's structured skills and target roles are used to run a semantic similarity search, retrieving only the top-$k$ real matching internships.
+Generation Phase: 
+The LLM receives both the retrieved internship descriptions and the structured `CandidateProfile` as context, ensuring all match scores, skill gaps, and cover letters are grounded in real data.
+
+3. Multi-Agent Design Patterns
+Handling job matching, skill gap analysis, resume rewriting, cover letter drafting, and mock interviews inside a single monolithic LLM prompt degrades output quality and makes debugging difficult.
+
+Adopted Pattern — Supervisor / Router Multi-Agent Architecture:
+Career Assistant (Supervisor Agent): Acts as the central orchestrator, maintaining conversation state and routing user requests to the appropriate specialist.
+Job-Resume Matching Agent: Compares the structured candidate profile against retrieved internship postings and ranks compatibility.
+Skill Gap Agent: Identifies missing technical skills and tools required for target roles.
+Resume Agent: Tailors resume bullet points and project highlights to align with specific job descriptions.
+Cover Letter Agent: Drafts role-specific cover letters grounded in the candidate's real projects and achievements.
+Interview Agent: Conducts mock technical and behavioral interviews based on the candidate's listed tech stack and projects.
+
+---
+
+ 4. Tech Stack Selection & Justification
+Frontend UI — Streamlit: Enables rapid development of a clean, interactive web interface for profile creation, PDF uploads, and inspecting parsed JSON profiles.
+Data Validation — Pydantic: Enforces strict schema rules on LLM outputs so extracted candidate profiles always follow a predictable structure.
+PDF Parsing — PyMuPDF (`fitz`): Reliably extracts raw text from multi-column student PDF resumes without losing reading order.
+LLM Structured Extraction — Gemini API (`gemini-2.5-flash`):** Supports native JSON schema enforcement (`response_schema`), preventing malformed outputs during resume parsing.
+Database — SQLite: Provides lightweight, zero-configuration relational storage for candidate metadata, file paths, and serialized JSON profiles.
