@@ -1,4 +1,4 @@
- Milestone 1.1 — Research & Technical Understanding
+ Milestone 1.1 â€” Research & Technical Understanding
 
 1. Internship Application Workflows & Candidate Bottlenecks
 Students applying for technical internships typically follow a repetitive manual workflow:
@@ -24,7 +24,7 @@ The LLM receives both the retrieved internship descriptions and the structured `
 3. Multi-Agent Design Patterns
 Handling job matching, skill gap analysis, resume rewriting, cover letter drafting, and mock interviews inside a single monolithic LLM prompt degrades output quality and makes debugging difficult.
 
-Adopted Pattern — Supervisor / Router Multi-Agent Architecture:
+Adopted Pattern â€” Supervisor / Router Multi-Agent Architecture:
 Career Assistant (Supervisor Agent): Acts as the central orchestrator, maintaining conversation state and routing user requests to the appropriate specialist.
 Job-Resume Matching Agent: Compares the structured candidate profile against retrieved internship postings and ranks compatibility.
 Skill Gap Agent: Identifies missing technical skills and tools required for target roles.
@@ -32,11 +32,12 @@ Resume Agent: Tailors resume bullet points and project highlights to align with 
 Cover Letter Agent: Drafts role-specific cover letters grounded in the candidate's real projects and achievements.
 Interview Agent: Conducts mock technical and behavioral interviews based on the candidate's listed tech stack and projects.
 
----
+4. Tech Stack Selection & Justification
+Frontend UI â€” React (Vite) + Tailwind CSS: Provides a clean, component-based Single Page Application (SPA) with fast state transitions, structured profile cards, and responsive skill badgesâ€”avoiding full-page script reruns.
+Backend API Layer â€” FastAPI + Uvicorn: High-performance asynchronous Python REST API serving structured JSON endpoints (`/api/profiles`, `/api/upload-resume`) with automatic OpenAPI/Swagger documentation.
+Data Validation â€” Pydantic: Enforces strict schema validation on both API requests and LLM-extracted candidate profiles.
+PDF Parsing â€” PyMuPDF (`fitz`): Reliably extracts clean plain text from multi-column student PDF resumes.
+LLM Structured Extraction â€” Gemini API (`google-genai`): Uses native JSON schema enforcement (`response_schema`) to map raw resume text directly into a validated `CandidateProfile`.
+Database â€” SQLite: Provides lightweight relational storage for student metadata, uploaded file paths, raw resume text, and serialized JSON profiles.
 
- 4. Tech Stack Selection & Justification
-Frontend UI — Streamlit: Enables rapid development of a clean, interactive web interface for profile creation, PDF uploads, and inspecting parsed JSON profiles.
-Data Validation — Pydantic: Enforces strict schema rules on LLM outputs so extracted candidate profiles always follow a predictable structure.
-PDF Parsing — PyMuPDF (`fitz`): Reliably extracts raw text from multi-column student PDF resumes without losing reading order.
-LLM Structured Extraction — Gemini API (`gemini-2.5-flash`):** Supports native JSON schema enforcement (`response_schema`), preventing malformed outputs during resume parsing.
-Database — SQLite: Provides lightweight, zero-configuration relational storage for candidate metadata, file paths, and serialized JSON profiles.
+ 
