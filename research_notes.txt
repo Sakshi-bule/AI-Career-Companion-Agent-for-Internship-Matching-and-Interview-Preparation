@@ -32,12 +32,11 @@ Resume Agent: Tailors resume bullet points and project highlights to align with 
 Cover Letter Agent: Drafts role-specific cover letters grounded in the candidate's real projects and achievements.
 Interview Agent: Conducts mock technical and behavioral interviews based on the candidate's listed tech stack and projects.
 
-4. Tech Stack Selection & Justification
-Frontend UI — React (Vite) + Tailwind CSS: Provides a clean, component-based Single Page Application (SPA) with fast state transitions, structured profile cards, and responsive skill badges—avoiding full-page script reruns.
-Backend API Layer — FastAPI + Uvicorn: High-performance asynchronous Python REST API serving structured JSON endpoints (`/api/profiles`, `/api/upload-resume`) with automatic OpenAPI/Swagger documentation.
-Data Validation — Pydantic: Enforces strict schema validation on both API requests and LLM-extracted candidate profiles.
+## 4. Tech Stack Selection & Justification
+Frontend UI — HTML5 + Tailwind CSS + Vanilla JS: Delivers a clean, responsive dashboard with structured profile cards, skill pill badges, and asynchronous fetch calls without requiring a separate Node.js build step.
+Backend & API Layer — FastAPI + Uvicorn: High-performance Python web framework that serves both the web interface and REST JSON endpoints (`/api/profiles`, `/api/profiles/upload`) with automatic OpenAPI/Swagger documentation.
+Data Validation — Pydantic: Enforces strict schema validation on LLM-extracted candidate profiles so downstream agents receive reliable structured data.
 PDF Parsing — PyMuPDF (`fitz`): Reliably extracts clean plain text from multi-column student PDF resumes.
 LLM Structured Extraction — Gemini API (`google-genai`): Uses native JSON schema enforcement (`response_schema`) to map raw resume text directly into a validated `CandidateProfile`.
-Database — SQLite: Provides lightweight relational storage for student metadata, uploaded file paths, raw resume text, and serialized JSON profiles.
-
+Database — SQLite: Provides lightweight, zero-configuration relational storage for student metadata, uploaded file paths, raw resume text, and serialized JSON profiles.
  
