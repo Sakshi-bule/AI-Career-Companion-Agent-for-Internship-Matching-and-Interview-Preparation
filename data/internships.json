@@ -1,0 +1,3674 @@
+[
+  {
+    "job_id": "JOB-001",
+    "job_title": "Data Science Intern- Undergrad (Summer 2023)",
+    "company": "Zscaler",
+    "location": "San Jose, CA, United States",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Agile",
+      "Architecture",
+      "Data analysis",
+      "Data Analytics",
+      "Data strategy",
+      "Data visualization"
+    ],
+    "perks": [
+      "Competitive pay",
+      "Equity",
+      "Health care"
+    ],
+    "job_description": "Data Science Intern- Undergrad (Summer 2023) at Zscaler (Internship, Entry-level) in San Jose, CA, United States. Key skills: Agile, Architecture, Data analysis, Data Analytics, Data strategy, Data visualization. Perks: Competitive pay, Equity, Health care."
+  },
+  {
+    "job_id": "JOB-002",
+    "job_title": "R&D Data Scientist Intern (Alternance)",
+    "company": "RYTE Corporation",
+    "location": "Nice, Provence-Alpes-C\u00f4te d'Azur, France",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Big Data",
+      "Computer Science",
+      "Deep Learning",
+      "Engineering",
+      "Keras",
+      "Python"
+    ],
+    "perks": [
+      "Career development",
+      "Flex vacation"
+    ],
+    "job_description": "R&D Data Scientist Intern (Alternance) at RYTE Corporation (Internship, Entry-level) in Nice, Provence-Alpes-C\u00f4te d'Azur, France. Key skills: Big Data, Computer Science, Deep Learning, Engineering, Keras, Python. Perks: Career development, Flex vacation."
+  },
+  {
+    "job_id": "JOB-003",
+    "job_title": "Alternance Data Analyst (H/F)",
+    "company": "SOMFY Group",
+    "location": "Cluses, France",
+    "job_type": "Full Time",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Data analysis",
+      "Excel",
+      "Power BI",
+      "Python",
+      "R",
+      "R&D"
+    ],
+    "perks": [
+      "Salary bonus"
+    ],
+    "job_description": "Alternance Data Analyst (H/F) at SOMFY Group (Full Time, Entry-level) in Cluses, France. Key skills: Data analysis, Excel, Power BI, Python, R, R&D. Perks: Salary bonus."
+  },
+  {
+    "job_id": "JOB-004",
+    "job_title": "MLOps Engineer Intern (Alternance)",
+    "company": "RYTE Corporation",
+    "location": "Nice, Provence-Alpes-C\u00f4te d'Azur, France",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Azure",
+      "Big Data",
+      "CI/CD",
+      "Computer Science",
+      "Databricks",
+      "Deep Learning"
+    ],
+    "perks": [
+      "Career development"
+    ],
+    "job_description": "MLOps Engineer Intern (Alternance) at RYTE Corporation (Internship, Entry-level) in Nice, Provence-Alpes-C\u00f4te d'Azur, France. Key skills: Azure, Big Data, CI/CD, Computer Science, Databricks, Deep Learning. Perks: Career development."
+  },
+  {
+    "job_id": "JOB-005",
+    "job_title": "Data Scientist (NLP & ML) Intern (Alternance)",
+    "company": "RYTE Corporation",
+    "location": "Nice, Provence-Alpes-C\u00f4te d'Azur, France",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Azure",
+      "Big Data",
+      "C++",
+      "Computer Science",
+      "Deep Learning",
+      "Docker"
+    ],
+    "perks": [
+      "Career development"
+    ],
+    "job_description": "Data Scientist (NLP & ML) Intern (Alternance) at RYTE Corporation (Internship, Entry-level) in Nice, Provence-Alpes-C\u00f4te d'Azur, France. Key skills: Azure, Big Data, C++, Computer Science, Deep Learning, Docker. Perks: Career development."
+  },
+  {
+    "job_id": "JOB-006",
+    "job_title": "Data Analyst / Data Scientist Intern (H/F/X) - July 2023",
+    "company": "Shadow",
+    "location": "Paris",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Agile",
+      "Clustering",
+      "Data analysis",
+      "Data visualization",
+      "KPIs",
+      "Pandas"
+    ],
+    "perks": [
+      "Career development",
+      "Flex hours",
+      "Flex vacation"
+    ],
+    "job_description": "Data Analyst / Data Scientist Intern (H/F/X) - July 2023 at Shadow (Internship, Entry-level) in Paris. Key skills: Agile, Clustering, Data analysis, Data visualization, KPIs, Pandas. Perks: Career development, Flex hours, Flex vacation."
+  },
+  {
+    "job_id": "JOB-007",
+    "job_title": "Data Science Intern",
+    "company": "Zuora",
+    "location": "Redwood City, California, United States",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Avro",
+      "AWS",
+      "Computer Science",
+      "CSV",
+      "DynamoDB",
+      "Finance"
+    ],
+    "perks": [
+      "Career development",
+      "Competitive pay",
+      "Health care"
+    ],
+    "job_description": "Data Science Intern at Zuora (Internship, Entry-level) in Redwood City, California, United States. Key skills: Avro, AWS, Computer Science, CSV, DynamoDB, Finance. Perks: Career development, Competitive pay, Health care."
+  },
+  {
+    "job_id": "JOB-008",
+    "job_title": "Data Scientist - Internship",
+    "company": "Shippeo",
+    "location": "Paris, France",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "A/B testing",
+      "Engineering",
+      "Machine Learning",
+      "ML models",
+      "MLOps",
+      "Model design"
+    ],
+    "perks": [],
+    "job_description": "Data Scientist - Internship at Shippeo (Internship, Entry-level) in Paris, France. Key skills: A/B testing, Engineering, Machine Learning, ML models, MLOps, Model design."
+  },
+  {
+    "job_id": "JOB-009",
+    "job_title": "Data Scientist Intern",
+    "company": "6sense Insights, Inc.",
+    "location": "United States, Remote",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "APIs",
+      "Big Data",
+      "Business Analytics",
+      "Data analysis",
+      "Data Analytics",
+      "Data visualization"
+    ],
+    "perks": [
+      "Career development",
+      "Gear",
+      "Health care"
+    ],
+    "job_description": "Data Scientist Intern at 6sense Insights, Inc. (Internship, Entry-level) in United States, Remote. Key skills: APIs, Big Data, Business Analytics, Data analysis, Data Analytics, Data visualization. Perks: Career development, Gear, Health care."
+  },
+  {
+    "job_id": "JOB-010",
+    "job_title": "Data Analytics Intern",
+    "company": "Chime",
+    "location": "San Francisco, CA",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Banking",
+      "Data Analytics",
+      "Data visualization",
+      "Distributed Systems",
+      "Economics",
+      "FinTech"
+    ],
+    "perks": [
+      "401(k) matching",
+      "Career development",
+      "Competitive pay"
+    ],
+    "job_description": "Data Analytics Intern at Chime (Internship, Entry-level) in San Francisco, CA. Key skills: Banking, Data Analytics, Data visualization, Distributed Systems, Economics, FinTech. Perks: 401(k) matching, Career development, Competitive pay."
+  },
+  {
+    "job_id": "JOB-011",
+    "job_title": "INTERNSHIP: IT Project Manager - Data Integration (M/F/D)",
+    "company": "Shippeo",
+    "location": "Paris, France",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Agile",
+      "Engineering",
+      "KPIs"
+    ],
+    "perks": [],
+    "job_description": "INTERNSHIP: IT Project Manager - Data Integration (M/F/D) at Shippeo (Internship, Entry-level) in Paris, France. Key skills: Agile, Engineering, KPIs."
+  },
+  {
+    "job_id": "JOB-012",
+    "job_title": "Analytics Engineer Intern",
+    "company": "Lacework",
+    "location": "United States",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "BigQuery",
+      "Computer Science",
+      "Data analysis",
+      "Data warehouse",
+      "Engineering",
+      "Finance"
+    ],
+    "perks": [],
+    "job_description": "Analytics Engineer Intern at Lacework (Internship, Entry-level) in United States. Key skills: BigQuery, Computer Science, Data analysis, Data warehouse, Engineering, Finance."
+  },
+  {
+    "job_id": "JOB-013",
+    "job_title": "Data Analyst Intern, Business Intelligence",
+    "company": "Illumio",
+    "location": "Sunnyvale, California",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Business Intelligence",
+      "Data governance",
+      "Excel",
+      "Security",
+      "SQL"
+    ],
+    "perks": [
+      "Equity"
+    ],
+    "job_description": "Data Analyst Intern, Business Intelligence at Illumio (Internship, Entry-level) in Sunnyvale, California. Key skills: Business Intelligence, Data governance, Excel, Security, SQL. Perks: Equity."
+  },
+  {
+    "job_id": "JOB-014",
+    "job_title": "Applied Scientist Intern",
+    "company": "Amazon.com",
+    "location": "Bellevue, Washington, USA",
+    "job_type": "Full Time",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Big Data",
+      "Data Analytics",
+      "Data Mining",
+      "Engineering",
+      "Machine Learning",
+      "Mathematics"
+    ],
+    "perks": [
+      "Career development",
+      "Equity"
+    ],
+    "job_description": "Applied Scientist Intern at Amazon.com (Full Time, Entry-level) in Bellevue, Washington, USA. Key skills: Big Data, Data Analytics, Data Mining, Engineering, Machine Learning, Mathematics. Perks: Career development, Equity."
+  },
+  {
+    "job_id": "JOB-015",
+    "job_title": "Intern - Machine Learning",
+    "company": "OpenX",
+    "location": "Krakow",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "AWS",
+      "Azure",
+      "Big Data",
+      "Computer Science",
+      "Data analysis",
+      "Dataflow"
+    ],
+    "perks": [
+      "Career development",
+      "Flex hours",
+      "Startup environment"
+    ],
+    "job_description": "Intern - Machine Learning at OpenX (Internship, Entry-level) in Krakow. Key skills: AWS, Azure, Big Data, Computer Science, Data analysis, Dataflow. Perks: Career development, Flex hours, Startup environment."
+  },
+  {
+    "job_id": "JOB-016",
+    "job_title": "Data Science - Intern",
+    "company": "Coda Payments",
+    "location": "Kuala Lumpur, Malaysia",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Classification",
+      "Computer Science",
+      "Engineering",
+      "Finance",
+      "FinTech",
+      "Machine Learning"
+    ],
+    "perks": [
+      "Career development",
+      "Flex hours"
+    ],
+    "job_description": "Data Science - Intern at Coda Payments (Internship, Entry-level) in Kuala Lumpur, Malaysia. Key skills: Classification, Computer Science, Engineering, Finance, FinTech, Machine Learning. Perks: Career development, Flex hours."
+  },
+  {
+    "job_id": "JOB-017",
+    "job_title": "Data Scientist - Internship",
+    "company": "Kpler",
+    "location": "Brussels, London, Paris, Vienna, Dubai, Houston, New \u2026",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Data analysis",
+      "Data quality",
+      "Data visualization",
+      "Git",
+      "Machine Learning",
+      "ML models"
+    ],
+    "perks": [],
+    "job_description": "Data Scientist - Internship at Kpler (Internship, Entry-level) in Brussels, London, Paris, Vienna, Dubai, Houston, New \u2026. Key skills: Data analysis, Data quality, Data visualization, Git, Machine Learning, ML models."
+  },
+  {
+    "job_id": "JOB-018",
+    "job_title": "Intern Program: Data Science Intern",
+    "company": "Publicis Groupe",
+    "location": "Atlanta, GA, United States",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Cluster analysis",
+      "Data analysis",
+      "Privacy",
+      "SAS",
+      "Statistics"
+    ],
+    "perks": [
+      "Career development",
+      "Competitive pay",
+      "Equity"
+    ],
+    "job_description": "Intern Program: Data Science Intern at Publicis Groupe (Internship, Entry-level) in Atlanta, GA, United States. Key skills: Cluster analysis, Data analysis, Privacy, SAS, Statistics. Perks: Career development, Competitive pay, Equity."
+  },
+  {
+    "job_id": "JOB-019",
+    "job_title": "\ud83d\udcc8 NLP Research Intern",
+    "company": "Infinitus",
+    "location": "San Francisco, CA",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Conversational AI",
+      "Deep Learning",
+      "NLP",
+      "PhD",
+      "PyTorch",
+      "Research"
+    ],
+    "perks": [
+      "Career development",
+      "Conferences",
+      "Startup environment"
+    ],
+    "job_description": "\ud83d\udcc8 NLP Research Intern at Infinitus (Internship, Entry-level) in San Francisco, CA. Key skills: Conversational AI, Deep Learning, NLP, PhD, PyTorch, Research. Perks: Career development, Conferences, Startup environment."
+  },
+  {
+    "job_id": "JOB-020",
+    "job_title": "Act Two Program - Data Engineer",
+    "company": "NBCUniversal",
+    "location": "Universal City, CALIFORNIA, United States",
+    "job_type": "Full Time",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Agile",
+      "Airflow",
+      "Big Data",
+      "Computer Science",
+      "Data Analytics",
+      "Data management"
+    ],
+    "perks": [
+      "Career development",
+      "Flex hours",
+      "Flex vacation"
+    ],
+    "job_description": "Act Two Program - Data Engineer at NBCUniversal (Full Time, Entry-level) in Universal City, CALIFORNIA, United States. Key skills: Agile, Airflow, Big Data, Computer Science, Data Analytics, Data management. Perks: Career development, Flex hours, Flex vacation."
+  },
+  {
+    "job_id": "JOB-021",
+    "job_title": "Intern Associate Data Analyst \u2013 Undergrad \u2013 Austin",
+    "company": "Visa",
+    "location": "Austin, TX, United States",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Computer Science",
+      "Data Analytics",
+      "Data visualization",
+      "Engineering",
+      "Excel",
+      "SQL"
+    ],
+    "perks": [
+      "Equity",
+      "Health care",
+      "Insurance"
+    ],
+    "job_description": "Intern Associate Data Analyst \u2013 Undergrad \u2013 Austin at Visa (Internship, Entry-level) in Austin, TX, United States. Key skills: Computer Science, Data Analytics, Data visualization, Engineering, Excel, SQL. Perks: Equity, Health care, Insurance."
+  },
+  {
+    "job_id": "JOB-022",
+    "job_title": "\ud83d\udcca Data Analyst Intern - Business & Product Ops",
+    "company": "Infinitus",
+    "location": "San Francisco, CA",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "BigQuery",
+      "Conversational AI",
+      "Data visualization",
+      "Engineering",
+      "Excel",
+      "GCP"
+    ],
+    "perks": [
+      "Startup environment"
+    ],
+    "job_description": "\ud83d\udcca Data Analyst Intern - Business & Product Ops at Infinitus (Internship, Entry-level) in San Francisco, CA. Key skills: BigQuery, Conversational AI, Data visualization, Engineering, Excel, GCP. Perks: Startup environment."
+  },
+  {
+    "job_id": "JOB-023",
+    "job_title": "AI Research Scientist Intern",
+    "company": "Unbabel",
+    "location": "Lisbon, Lisbon, Portugal",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Computer Science",
+      "Deep Learning",
+      "Engineering",
+      "Machine Learning",
+      "NLP",
+      "PhD"
+    ],
+    "perks": [
+      "Career development",
+      "Competitive pay",
+      "Conferences"
+    ],
+    "job_description": "AI Research Scientist Intern at Unbabel (Internship, Entry-level) in Lisbon, Lisbon, Portugal. Key skills: Computer Science, Deep Learning, Engineering, Machine Learning, NLP, PhD. Perks: Career development, Competitive pay, Conferences."
+  },
+  {
+    "job_id": "JOB-024",
+    "job_title": "Internship - Data Science (For Current Students)",
+    "company": "Visa",
+    "location": "Johannesburg, South Africa",
+    "job_type": "Full Time",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Big Data",
+      "Clustering",
+      "Computer Science",
+      "Data analysis",
+      "Data Mining",
+      "Econometrics"
+    ],
+    "perks": [
+      "Career development"
+    ],
+    "job_description": "Internship - Data Science (For Current Students) at Visa (Full Time, Entry-level) in Johannesburg, South Africa. Key skills: Big Data, Clustering, Computer Science, Data analysis, Data Mining, Econometrics. Perks: Career development."
+  },
+  {
+    "job_id": "JOB-025",
+    "job_title": "STAGE 6 mois - Data Scientist Junior H/F",
+    "company": "METRO/MAKRO",
+    "location": "Nanterre, France",
+    "job_type": "Full Time",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Big Data",
+      "Power BI",
+      "Python",
+      "R",
+      "SQL"
+    ],
+    "perks": [],
+    "job_description": "STAGE 6 mois - Data Scientist Junior H/F at METRO/MAKRO (Full Time, Entry-level) in Nanterre, France. Key skills: Big Data, Power BI, Python, R, SQL."
+  },
+  {
+    "job_id": "JOB-026",
+    "job_title": "Internship - Master Data Management",
+    "company": "Bosch Group",
+    "location": "Solothurn/Zuchwil, Switzerland",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Data Analytics",
+      "Data management",
+      "Excel",
+      "Industrial",
+      "Spark"
+    ],
+    "perks": [
+      "Flex hours",
+      "Startup environment"
+    ],
+    "job_description": "Internship - Master Data Management at Bosch Group (Internship, Entry-level) in Solothurn/Zuchwil, Switzerland. Key skills: Data Analytics, Data management, Excel, Industrial, Spark. Perks: Flex hours, Startup environment."
+  },
+  {
+    "job_id": "JOB-027",
+    "job_title": "Machine Learning Intern",
+    "company": "Mercedes-Benz R&D North America",
+    "location": "Sunnyvale, CA",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Agile",
+      "ANN",
+      "Architecture",
+      "Autonomous Driving",
+      "Computer Science",
+      "Data analysis"
+    ],
+    "perks": [
+      "401(k) matching",
+      "Career development",
+      "Fitness / gym"
+    ],
+    "job_description": "Machine Learning Intern at Mercedes-Benz R&D North America (Internship, Entry-level) in Sunnyvale, CA. Key skills: Agile, ANN, Architecture, Autonomous Driving, Computer Science, Data analysis. Perks: 401(k) matching, Career development, Fitness / gym."
+  },
+  {
+    "job_id": "JOB-028",
+    "job_title": "Data Science Intern",
+    "company": "Funding Societies",
+    "location": "Bengaluru, Karnataka, India - Remote",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "A/B testing",
+      "Computer Science",
+      "Data analysis",
+      "Data visualization",
+      "FinTech",
+      "Machine Learning"
+    ],
+    "perks": [
+      "Career development",
+      "Flex hours",
+      "Flex vacation"
+    ],
+    "job_description": "Data Science Intern at Funding Societies (Internship, Entry-level) in Bengaluru, Karnataka, India - Remote. Key skills: A/B testing, Computer Science, Data analysis, Data visualization, FinTech, Machine Learning. Perks: Career development, Flex hours, Flex vacation."
+  },
+  {
+    "job_id": "JOB-029",
+    "job_title": "Data Engineering Internship",
+    "company": "Cloudflare, Inc.",
+    "location": "Lisbon, Portugal",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Angular",
+      "APIs",
+      "Architecture",
+      "Computer Science",
+      "Data Analytics",
+      "Engineering"
+    ],
+    "perks": [],
+    "job_description": "Data Engineering Internship at Cloudflare, Inc. (Internship, Entry-level) in Lisbon, Portugal. Key skills: Angular, APIs, Architecture, Computer Science, Data Analytics, Engineering."
+  },
+  {
+    "job_id": "JOB-030",
+    "job_title": "[Intern] AI/ Computer Vision Engineer",
+    "company": "Bosch Group",
+    "location": "T\u00e2n B\u00ecnh, Vietnam",
+    "job_type": "Full Time",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Computer Science",
+      "Computer Vision",
+      "Consulting",
+      "Deep Learning",
+      "Economics",
+      "Engineering"
+    ],
+    "perks": [
+      "Career development",
+      "Team events"
+    ],
+    "job_description": "[Intern] AI/ Computer Vision Engineer at Bosch Group (Full Time, Entry-level) in T\u00e2n B\u00ecnh, Vietnam. Key skills: Computer Science, Computer Vision, Consulting, Deep Learning, Economics, Engineering. Perks: Career development, Team events."
+  },
+  {
+    "job_id": "JOB-031",
+    "job_title": "R&D Data Scientist Intern (Alternance)",
+    "company": "RYTE Corporation",
+    "location": "Paris, \u00cele-de-France, France",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Big Data",
+      "Computer Science",
+      "Deep Learning",
+      "Engineering",
+      "Keras",
+      "Python"
+    ],
+    "perks": [
+      "Career development",
+      "Flex vacation"
+    ],
+    "job_description": "R&D Data Scientist Intern (Alternance) at RYTE Corporation (Internship, Entry-level) in Paris, \u00cele-de-France, France. Key skills: Big Data, Computer Science, Deep Learning, Engineering, Keras, Python. Perks: Career development, Flex vacation."
+  },
+  {
+    "job_id": "JOB-032",
+    "job_title": "Software Development Engineer Intern (Summer 2023) - Machine Learning Apps, Acceleration, Annapurna Labs",
+    "company": "Amazon.com",
+    "location": "Austin, Texas, USA",
+    "job_type": "Full Time",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "AWS",
+      "Computer Science",
+      "Deep Learning",
+      "Distributed Systems",
+      "EC2",
+      "Engineering"
+    ],
+    "perks": [
+      "Career development",
+      "Conferences"
+    ],
+    "job_description": "Software Development Engineer Intern (Summer 2023) - Machine Learning Apps, Acceleration, Annapurna Labs at Amazon.com (Full Time, Entry-level) in Austin, Texas, USA. Key skills: AWS, Computer Science, Deep Learning, Distributed Systems, EC2, Engineering. Perks: Career development, Conferences."
+  },
+  {
+    "job_id": "JOB-033",
+    "job_title": "Data Scientist (NLP & ML) Intern (Alternance)",
+    "company": "RYTE Corporation",
+    "location": "Paris, \u00cele-de-France, France",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Azure",
+      "Big Data",
+      "C++",
+      "Computer Science",
+      "Deep Learning",
+      "Docker"
+    ],
+    "perks": [
+      "Career development"
+    ],
+    "job_description": "Data Scientist (NLP & ML) Intern (Alternance) at RYTE Corporation (Internship, Entry-level) in Paris, \u00cele-de-France, France. Key skills: Azure, Big Data, C++, Computer Science, Deep Learning, Docker. Perks: Career development."
+  },
+  {
+    "job_id": "JOB-034",
+    "job_title": "Stage de fin d'\u00e9tudes - Consultant(e) Data Management",
+    "company": "Sia Partners",
+    "location": "Paris, France",
+    "job_type": "Full Time",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "APIs",
+      "Architecture",
+      "AWS",
+      "Azure",
+      "Big Data",
+      "Business Intelligence"
+    ],
+    "perks": [],
+    "job_description": "Stage de fin d'\u00e9tudes - Consultant(e) Data Management at Sia Partners (Full Time, Entry-level) in Paris, France. Key skills: APIs, Architecture, AWS, Azure, Big Data, Business Intelligence."
+  },
+  {
+    "job_id": "JOB-035",
+    "job_title": "MLOps Engineer Intern (Alternance)",
+    "company": "RYTE Corporation",
+    "location": "Paris, \u00cele-de-France, France",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Azure",
+      "Big Data",
+      "CI/CD",
+      "Computer Science",
+      "Databricks",
+      "Deep Learning"
+    ],
+    "perks": [
+      "Career development"
+    ],
+    "job_description": "MLOps Engineer Intern (Alternance) at RYTE Corporation (Internship, Entry-level) in Paris, \u00cele-de-France, France. Key skills: Azure, Big Data, CI/CD, Computer Science, Databricks, Deep Learning. Perks: Career development."
+  },
+  {
+    "job_id": "JOB-036",
+    "job_title": "Data Management Intern (12 months Internship)",
+    "company": "EcoVadis",
+    "location": "Eb\u00e8ne, Mauritius",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Classification",
+      "Data management",
+      "Excel",
+      "Research"
+    ],
+    "perks": [
+      "Career development",
+      "Flex hours",
+      "Health care"
+    ],
+    "job_description": "Data Management Intern (12 months Internship) at EcoVadis (Internship, Entry-level) in Eb\u00e8ne, Mauritius. Key skills: Classification, Data management, Excel, Research. Perks: Career development, Flex hours, Health care."
+  },
+  {
+    "job_id": "JOB-037",
+    "job_title": "Intern, ML Ops",
+    "company": "OpenX",
+    "location": "New York City",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "AWS",
+      "Azure",
+      "Computer Science",
+      "Docker",
+      "GCP",
+      "Google Cloud"
+    ],
+    "perks": [
+      "Career development",
+      "Startup environment"
+    ],
+    "job_description": "Intern, ML Ops at OpenX (Internship, Entry-level) in New York City. Key skills: AWS, Azure, Computer Science, Docker, GCP, Google Cloud. Perks: Career development, Startup environment."
+  },
+  {
+    "job_id": "JOB-038",
+    "job_title": "Website & Data analyses - Internship EU student",
+    "company": "Bosch Group",
+    "location": "Breda, Netherlands",
+    "job_type": "Full Time",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "E-commerce",
+      "Research",
+      "Testing"
+    ],
+    "perks": [
+      "Flex hours"
+    ],
+    "job_description": "Website & Data analyses - Internship EU student at Bosch Group (Full Time, Entry-level) in Breda, Netherlands. Key skills: E-commerce, Research, Testing. Perks: Flex hours."
+  },
+  {
+    "job_id": "JOB-039",
+    "job_title": "Computer Vision Intern",
+    "company": "HeadLight Technologies Inc.",
+    "location": "Seattle, Washington, United States - Remote",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Computer Vision",
+      "Consulting",
+      "Engineering",
+      "Machine Learning"
+    ],
+    "perks": [
+      "Career development"
+    ],
+    "job_description": "Computer Vision Intern at HeadLight Technologies Inc. (Internship, Entry-level) in Seattle, Washington, United States - Remote. Key skills: Computer Vision, Consulting, Engineering, Machine Learning. Perks: Career development."
+  },
+  {
+    "job_id": "JOB-040",
+    "job_title": "Data Science Intern | Social Media Analysis | US, Canada, UK, Germany",
+    "company": "Trust Lab",
+    "location": "Anywhere",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "AWS",
+      "Data analysis",
+      "Data visualization",
+      "Engineering",
+      "Machine intelligence",
+      "Machine Learning"
+    ],
+    "perks": [
+      "Flex hours",
+      "Startup environment"
+    ],
+    "job_description": "Data Science Intern | Social Media Analysis | US, Canada, UK, Germany at Trust Lab (Internship, Entry-level) in Anywhere. Key skills: AWS, Data analysis, Data visualization, Engineering, Machine intelligence, Machine Learning. Perks: Flex hours, Startup environment."
+  },
+  {
+    "job_id": "JOB-041",
+    "job_title": "Data Science Intern",
+    "company": "TuneIn",
+    "location": "San Francisco, CA",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Computer Science",
+      "Data Mining",
+      "Deep Learning",
+      "Engineering",
+      "Excel",
+      "KPIs"
+    ],
+    "perks": [
+      "Career development"
+    ],
+    "job_description": "Data Science Intern at TuneIn (Internship, Entry-level) in San Francisco, CA. Key skills: Computer Science, Data Mining, Deep Learning, Engineering, Excel, KPIs. Perks: Career development."
+  },
+  {
+    "job_id": "JOB-042",
+    "job_title": "Machine Learning Engineer, Comprehension Intern",
+    "company": "Deep6.ai",
+    "location": "Remote or Pasadena, CA",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Computer Science",
+      "ETL",
+      "Machine Learning",
+      "Mathematics",
+      "NLP",
+      "OOP"
+    ],
+    "perks": [
+      "Career development",
+      "Competitive pay",
+      "Startup environment"
+    ],
+    "job_description": "Machine Learning Engineer, Comprehension Intern at Deep6.ai (Internship, Entry-level) in Remote or Pasadena, CA. Key skills: Computer Science, ETL, Machine Learning, Mathematics, NLP, OOP. Perks: Career development, Competitive pay, Startup environment."
+  },
+  {
+    "job_id": "JOB-043",
+    "job_title": "Data Analyst, Search Intern",
+    "company": "Deep6.ai",
+    "location": "Remote or Pasadena, CA",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Business Analytics",
+      "Computer Science",
+      "Machine Learning",
+      "Mathematics",
+      "NLP",
+      "Python"
+    ],
+    "perks": [
+      "Competitive pay",
+      "Startup environment"
+    ],
+    "job_description": "Data Analyst, Search Intern at Deep6.ai (Internship, Entry-level) in Remote or Pasadena, CA. Key skills: Business Analytics, Computer Science, Machine Learning, Mathematics, NLP, Python. Perks: Competitive pay, Startup environment."
+  },
+  {
+    "job_id": "JOB-044",
+    "job_title": "Summer 2023: Machine Learning Intern",
+    "company": "Motional",
+    "location": "Pittsburgh, Pennsylvania, United States",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Architecture",
+      "Autonomous Driving",
+      "Computer Science",
+      "Data Mining",
+      "Distributed Systems",
+      "Machine Learning"
+    ],
+    "perks": [
+      "401(k) matching",
+      "Career development",
+      "Equity"
+    ],
+    "job_description": "Summer 2023: Machine Learning Intern at Motional (Internship, Entry-level) in Pittsburgh, Pennsylvania, United States. Key skills: Architecture, Autonomous Driving, Computer Science, Data Mining, Distributed Systems, Machine Learning. Perks: 401(k) matching, Career development, Equity."
+  },
+  {
+    "job_id": "JOB-045",
+    "job_title": "Co-Op/Intern Software Engineer, AI Platform",
+    "company": "Kinaxis",
+    "location": "Toronto, Canada; Remote, Canada",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Big Data",
+      "Bitbucket",
+      "DevOps",
+      "Engineering",
+      "GitHub",
+      "Industrial"
+    ],
+    "perks": [],
+    "job_description": "Co-Op/Intern Software Engineer, AI Platform at Kinaxis (Internship, Entry-level) in Toronto, Canada; Remote, Canada. Key skills: Big Data, Bitbucket, DevOps, Engineering, GitHub, Industrial."
+  },
+  {
+    "job_id": "JOB-046",
+    "job_title": "Data Science Trainee - REF1574S",
+    "company": "Deutsche Telekom IT Solutions",
+    "location": "Budapest, Debrecen, Szeged, P\u00e9cs, Hungary",
+    "job_type": "Full Time",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Agile",
+      "Computer Science",
+      "Jira",
+      "Kanban",
+      "Keras",
+      "Machine Learning"
+    ],
+    "perks": [
+      "Team events"
+    ],
+    "job_description": "Data Science Trainee - REF1574S at Deutsche Telekom IT Solutions (Full Time, Entry-level) in Budapest, Debrecen, Szeged, P\u00e9cs, Hungary. Key skills: Agile, Computer Science, Jira, Kanban, Keras, Machine Learning. Perks: Team events."
+  },
+  {
+    "job_id": "JOB-047",
+    "job_title": "Data Analyst (6 month internship) (M/F)",
+    "company": "SOMFY Group",
+    "location": "Cluses, France",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Data management",
+      "Data quality",
+      "R",
+      "R&D",
+      "Testing"
+    ],
+    "perks": [
+      "Career development"
+    ],
+    "job_description": "Data Analyst (6 month internship) (M/F) at SOMFY Group (Internship, Entry-level) in Cluses, France. Key skills: Data management, Data quality, R, R&D, Testing. Perks: Career development."
+  },
+  {
+    "job_id": "JOB-048",
+    "job_title": "Intern, Associate Data Analyst",
+    "company": "Visa",
+    "location": "Austin, TX, United States",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Computer Science",
+      "Data Analytics",
+      "Data visualization",
+      "Engineering",
+      "Excel",
+      "SQL"
+    ],
+    "perks": [
+      "Equity",
+      "Health care",
+      "Insurance"
+    ],
+    "job_description": "Intern, Associate Data Analyst at Visa (Internship, Entry-level) in Austin, TX, United States. Key skills: Computer Science, Data Analytics, Data visualization, Engineering, Excel, SQL. Perks: Equity, Health care, Insurance."
+  },
+  {
+    "job_id": "JOB-049",
+    "job_title": "Natural Language Processing Intern",
+    "company": "Charles River Analytics Inc.",
+    "location": "Cambridge, MA",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Computer Science",
+      "LLMs",
+      "Machine Learning",
+      "NLP",
+      "OOP",
+      "Prototyping"
+    ],
+    "perks": [
+      "Career development",
+      "Flex vacation",
+      "Snacks / Drinks"
+    ],
+    "job_description": "Natural Language Processing Intern at Charles River Analytics Inc. (Internship, Entry-level) in Cambridge, MA. Key skills: Computer Science, LLMs, Machine Learning, NLP, OOP, Prototyping. Perks: Career development, Flex vacation, Snacks / Drinks."
+  },
+  {
+    "job_id": "JOB-050",
+    "job_title": "Data Scientist Intern",
+    "company": "Spendesk",
+    "location": "Paris",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Classification",
+      "Computer Science",
+      "Data visualization",
+      "Deep Learning",
+      "Finance",
+      "Linear algebra"
+    ],
+    "perks": [
+      "Career development",
+      "Gear",
+      "Health care"
+    ],
+    "job_description": "Data Scientist Intern at Spendesk (Internship, Entry-level) in Paris. Key skills: Classification, Computer Science, Data visualization, Deep Learning, Finance, Linear algebra. Perks: Career development, Gear, Health care."
+  },
+  {
+    "job_id": "JOB-051",
+    "job_title": "Amazon Robotics - Applied Scientist Intern - 2023",
+    "company": "Amazon.com",
+    "location": "Westborough, Massachusetts, USA",
+    "job_type": "Full Time",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Computer Science",
+      "Computer Vision",
+      "Engineering",
+      "Machine Learning",
+      "Mathematics",
+      "PhD"
+    ],
+    "perks": [],
+    "job_description": "Amazon Robotics - Applied Scientist Intern - 2023 at Amazon.com (Full Time, Entry-level) in Westborough, Massachusetts, USA. Key skills: Computer Science, Computer Vision, Engineering, Machine Learning, Mathematics, PhD."
+  },
+  {
+    "job_id": "JOB-052",
+    "job_title": "Machine Learning Content Development Intern",
+    "company": "DataCamp, Inc.",
+    "location": "United Kingdom or Belgium",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Engineering",
+      "GitHub",
+      "Machine Learning",
+      "MLFlow",
+      "Python",
+      "Teaching"
+    ],
+    "perks": [
+      "Career development",
+      "Competitive pay",
+      "Equity"
+    ],
+    "job_description": "Machine Learning Content Development Intern at DataCamp, Inc. (Internship, Entry-level) in United Kingdom or Belgium. Key skills: Engineering, GitHub, Machine Learning, MLFlow, Python, Teaching. Perks: Career development, Competitive pay, Equity."
+  },
+  {
+    "job_id": "JOB-053",
+    "job_title": "Junior Machine Learning Engineer - Z\u00fcrich (internship)",
+    "company": "Visium",
+    "location": "Z\u00fcrich, Zurich, Switzerland",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Classification",
+      "Clustering",
+      "Computer Science",
+      "D3",
+      "Deep Learning",
+      "Engineering"
+    ],
+    "perks": [
+      "Career development",
+      "Startup environment",
+      "Team events"
+    ],
+    "job_description": "Junior Machine Learning Engineer - Z\u00fcrich (internship) at Visium (Internship, Entry-level) in Z\u00fcrich, Zurich, Switzerland. Key skills: Classification, Clustering, Computer Science, D3, Deep Learning, Engineering. Perks: Career development, Startup environment, Team events."
+  },
+  {
+    "job_id": "JOB-054",
+    "job_title": "Data Scientist - Intern",
+    "company": "OpenX",
+    "location": "Los Angeles, CA",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Architecture",
+      "AWS",
+      "Big Data",
+      "Computer Science",
+      "Data analysis",
+      "GCP"
+    ],
+    "perks": [
+      "Career development",
+      "Startup environment"
+    ],
+    "job_description": "Data Scientist - Intern at OpenX (Internship, Entry-level) in Los Angeles, CA. Key skills: Architecture, AWS, Big Data, Computer Science, Data analysis, GCP. Perks: Career development, Startup environment."
+  },
+  {
+    "job_id": "JOB-055",
+    "job_title": "Data Analysis Intern - Istanbul",
+    "company": "Blueground",
+    "location": "\u0130stanbul, \u0130stanbul, Turkey",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Business Intelligence",
+      "Data analysis",
+      "Data Analytics",
+      "Data quality",
+      "Engineering",
+      "Excel"
+    ],
+    "perks": [
+      "Career development",
+      "Competitive pay",
+      "Flex hours"
+    ],
+    "job_description": "Data Analysis Intern - Istanbul at Blueground (Internship, Entry-level) in \u0130stanbul, \u0130stanbul, Turkey. Key skills: Business Intelligence, Data analysis, Data Analytics, Data quality, Engineering, Excel. Perks: Career development, Competitive pay, Flex hours."
+  },
+  {
+    "job_id": "JOB-056",
+    "job_title": "Junior Machine Learning Engineer - Lausanne (internship)",
+    "company": "Visium",
+    "location": "Lausanne, Vaud, Switzerland",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Classification",
+      "Clustering",
+      "Computer Science",
+      "D3",
+      "Deep Learning",
+      "Engineering"
+    ],
+    "perks": [
+      "Career development",
+      "Startup environment",
+      "Team events"
+    ],
+    "job_description": "Junior Machine Learning Engineer - Lausanne (internship) at Visium (Internship, Entry-level) in Lausanne, Vaud, Switzerland. Key skills: Classification, Clustering, Computer Science, D3, Deep Learning, Engineering. Perks: Career development, Startup environment, Team events."
+  },
+  {
+    "job_id": "JOB-057",
+    "job_title": "Sports Data Science Intern",
+    "company": "Steel Perlot",
+    "location": "Los Angeles, California, San Francisco, California, New \u2026",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Bayesian",
+      "CI/CD",
+      "Computer Science",
+      "Data analysis",
+      "Data management",
+      "Engineering"
+    ],
+    "perks": [
+      "401(k) matching",
+      "Career development",
+      "Competitive pay"
+    ],
+    "job_description": "Sports Data Science Intern at Steel Perlot (Internship, Entry-level) in Los Angeles, California, San Francisco, California, New \u2026. Key skills: Bayesian, CI/CD, Computer Science, Data analysis, Data management, Engineering. Perks: 401(k) matching, Career development, Competitive pay."
+  },
+  {
+    "job_id": "JOB-058",
+    "job_title": "Computer Vision / Machine Learning Intern",
+    "company": "Scandit",
+    "location": "Z\u00fcrich",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "C++",
+      "Computer Science",
+      "Computer Vision",
+      "Machine Learning",
+      "ML models",
+      "NLP"
+    ],
+    "perks": [
+      "Career development",
+      "Startup environment",
+      "Team events"
+    ],
+    "job_description": "Computer Vision / Machine Learning Intern at Scandit (Internship, Entry-level) in Z\u00fcrich. Key skills: C++, Computer Science, Computer Vision, Machine Learning, ML models, NLP. Perks: Career development, Startup environment, Team events."
+  },
+  {
+    "job_id": "JOB-059",
+    "job_title": "Machine Learning Engineer 2023 Internship Programme (6 months)",
+    "company": "CGG",
+    "location": "Crawley, United Kingdom",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "C++",
+      "Computer Science",
+      "Deep Learning",
+      "HPC",
+      "Machine Learning",
+      "Mathematics"
+    ],
+    "perks": [
+      "Career development",
+      "Competitive pay",
+      "Fitness / gym"
+    ],
+    "job_description": "Machine Learning Engineer 2023 Internship Programme (6 months) at CGG (Internship, Entry-level) in Crawley, United Kingdom. Key skills: C++, Computer Science, Deep Learning, HPC, Machine Learning, Mathematics. Perks: Career development, Competitive pay, Fitness / gym."
+  },
+  {
+    "job_id": "JOB-060",
+    "job_title": "Junior Data Analyst - Extra Curricular Internship",
+    "company": "Publicis Groupe",
+    "location": "Torino, Italy",
+    "job_type": "Full Time",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Big Data",
+      "Computer Science",
+      "Consulting",
+      "Data analysis",
+      "Data Mining",
+      "Data quality"
+    ],
+    "perks": [
+      "Flex hours",
+      "Wellness"
+    ],
+    "job_description": "Junior Data Analyst - Extra Curricular Internship at Publicis Groupe (Full Time, Entry-level) in Torino, Italy. Key skills: Big Data, Computer Science, Consulting, Data analysis, Data Mining, Data quality. Perks: Flex hours, Wellness."
+  },
+  {
+    "job_id": "JOB-061",
+    "job_title": "Intern for AI Machine Learning - AquaEasy",
+    "company": "Bosch Group",
+    "location": "Singapore, Singapore",
+    "job_type": "Full Time",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Data analysis",
+      "Data visualization",
+      "Machine Learning",
+      "Python",
+      "R",
+      "R&D"
+    ],
+    "perks": [
+      "Career development"
+    ],
+    "job_description": "Intern for AI Machine Learning - AquaEasy at Bosch Group (Full Time, Entry-level) in Singapore, Singapore. Key skills: Data analysis, Data visualization, Machine Learning, Python, R, R&D. Perks: Career development."
+  },
+  {
+    "job_id": "JOB-062",
+    "job_title": "2023 Software Engineering Internship - Data Engineer",
+    "company": "Censys",
+    "location": "Ann Arbor, Michigan, United States",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "ANN",
+      "Engineering",
+      "Golang",
+      "Helm",
+      "Python",
+      "Research"
+    ],
+    "perks": [
+      "Competitive pay",
+      "Home office stipend",
+      "Startup environment"
+    ],
+    "job_description": "2023 Software Engineering Internship - Data Engineer at Censys (Internship, Entry-level) in Ann Arbor, Michigan, United States. Key skills: ANN, Engineering, Golang, Helm, Python, Research. Perks: Competitive pay, Home office stipend, Startup environment."
+  },
+  {
+    "job_id": "JOB-063",
+    "job_title": "Intern, Data Science & Analytics",
+    "company": "Publicis Groupe",
+    "location": "Miami, FL, United States",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Data strategy",
+      "Data Studio",
+      "Excel",
+      "Power BI",
+      "Python",
+      "Research"
+    ],
+    "perks": [
+      "Flex hours",
+      "Flex vacation",
+      "Insurance"
+    ],
+    "job_description": "Intern, Data Science & Analytics at Publicis Groupe (Internship, Entry-level) in Miami, FL, United States. Key skills: Data strategy, Data Studio, Excel, Power BI, Python, Research. Perks: Flex hours, Flex vacation, Insurance."
+  },
+  {
+    "job_id": "JOB-064",
+    "job_title": "Internship for BigData Analysis in the areas of Project Management and SW Development Metrics",
+    "company": "Bosch Group",
+    "location": "Abstatt, Germany",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Azure",
+      "Big Data",
+      "Computer Science",
+      "Data analysis",
+      "Engineering",
+      "Excel"
+    ],
+    "perks": [
+      "Career development",
+      "Team events"
+    ],
+    "job_description": "Internship for BigData Analysis in the areas of Project Management and SW Development Metrics at Bosch Group (Internship, Entry-level) in Abstatt, Germany. Key skills: Azure, Big Data, Computer Science, Data analysis, Engineering, Excel. Perks: Career development, Team events."
+  },
+  {
+    "job_id": "JOB-065",
+    "job_title": "Data Analytics Intern (Summer 2023)",
+    "company": "Informa Group Plc.",
+    "location": "Washington, DC, United States",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Big Data",
+      "BigQuery",
+      "Computer Science",
+      "Data analysis",
+      "Data Analytics",
+      "Data Studio"
+    ],
+    "perks": [
+      "Competitive pay",
+      "Startup environment"
+    ],
+    "job_description": "Data Analytics Intern (Summer 2023) at Informa Group Plc. (Internship, Entry-level) in Washington, DC, United States. Key skills: Big Data, BigQuery, Computer Science, Data analysis, Data Analytics, Data Studio. Perks: Competitive pay, Startup environment."
+  },
+  {
+    "job_id": "JOB-066",
+    "job_title": "Customer Data Specialist Intern",
+    "company": "Facilities Management Express",
+    "location": "Columbus, Ohio, United States - Remote",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Airtable",
+      "APIs",
+      "Business Analytics",
+      "Business Intelligence",
+      "Data visualization",
+      "ETL"
+    ],
+    "perks": [
+      "Career development",
+      "Competitive pay",
+      "Flex vacation"
+    ],
+    "job_description": "Customer Data Specialist Intern at Facilities Management Express (Internship, Entry-level) in Columbus, Ohio, United States - Remote. Key skills: Airtable, APIs, Business Analytics, Business Intelligence, Data visualization, ETL. Perks: Career development, Competitive pay, Flex vacation."
+  },
+  {
+    "job_id": "JOB-067",
+    "job_title": "Project Manager Intern - SparkLabs",
+    "company": "AppLovin",
+    "location": "San Francisco Bay Area",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Excel",
+      "Jira",
+      "Privacy",
+      "Testing"
+    ],
+    "perks": [
+      "Career development"
+    ],
+    "job_description": "Project Manager Intern - SparkLabs at AppLovin (Internship, Entry-level) in San Francisco Bay Area. Key skills: Excel, Jira, Privacy, Testing. Perks: Career development."
+  },
+  {
+    "job_id": "JOB-068",
+    "job_title": "Machine Learning Research Engineer Internship",
+    "company": "Chemix, Inc.",
+    "location": "Sunnyvale, California, United States",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Chemistry",
+      "CI/CD",
+      "Git",
+      "Machine Learning",
+      "ML models",
+      "NumPy"
+    ],
+    "perks": [
+      "401(k) matching",
+      "Career development",
+      "Equity"
+    ],
+    "job_description": "Machine Learning Research Engineer Internship at Chemix, Inc. (Internship, Entry-level) in Sunnyvale, California, United States. Key skills: Chemistry, CI/CD, Git, Machine Learning, ML models, NumPy. Perks: 401(k) matching, Career development, Equity."
+  },
+  {
+    "job_id": "JOB-069",
+    "job_title": "Canada - Early Talent - Data Science Intern, Decisions-Product - Montreal, Canada (Summer 2023)",
+    "company": "Lyft",
+    "location": "Montreal, Canada",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "A/B testing",
+      "Biology",
+      "Computer Science",
+      "Economics",
+      "Engineering",
+      "Mathematics"
+    ],
+    "perks": [
+      "Health care",
+      "Startup environment"
+    ],
+    "job_description": "Canada - Early Talent - Data Science Intern, Decisions-Product - Montreal, Canada (Summer 2023) at Lyft (Internship, Entry-level) in Montreal, Canada. Key skills: A/B testing, Biology, Computer Science, Economics, Engineering, Mathematics. Perks: Health care, Startup environment."
+  },
+  {
+    "job_id": "JOB-070",
+    "job_title": "Battery Data Science Intern",
+    "company": "Chemix, Inc.",
+    "location": "Sunnyvale, California, United States",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Chemistry",
+      "CI/CD",
+      "Computer Science",
+      "Data pipelines",
+      "Engineering",
+      "Git"
+    ],
+    "perks": [
+      "401(k) matching",
+      "Career development",
+      "Equity"
+    ],
+    "job_description": "Battery Data Science Intern at Chemix, Inc. (Internship, Entry-level) in Sunnyvale, California, United States. Key skills: Chemistry, CI/CD, Computer Science, Data pipelines, Engineering, Git. Perks: 401(k) matching, Career development, Equity."
+  },
+  {
+    "job_id": "JOB-071",
+    "job_title": "Data Engineering Intern",
+    "company": "Roofstock",
+    "location": "Oakland, CA",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Computer Science",
+      "Engineering",
+      "Python",
+      "RDBMS",
+      "Scala",
+      "SQL"
+    ],
+    "perks": [
+      "Competitive pay",
+      "Startup environment"
+    ],
+    "job_description": "Data Engineering Intern at Roofstock (Internship, Entry-level) in Oakland, CA. Key skills: Computer Science, Engineering, Python, RDBMS, Scala, SQL. Perks: Competitive pay, Startup environment."
+  },
+  {
+    "job_id": "JOB-072",
+    "job_title": "Data Science Intern, Registries and Real World Data",
+    "company": "Verily",
+    "location": "South San Francisco, CA",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Biology",
+      "Computer Science",
+      "Data quality",
+      "Engineering",
+      "Machine Learning",
+      "Mathematics"
+    ],
+    "perks": [
+      "Career development",
+      "Competitive pay",
+      "Equity"
+    ],
+    "job_description": "Data Science Intern, Registries and Real World Data at Verily (Internship, Entry-level) in South San Francisco, CA. Key skills: Biology, Computer Science, Data quality, Engineering, Machine Learning, Mathematics. Perks: Career development, Competitive pay, Equity."
+  },
+  {
+    "job_id": "JOB-073",
+    "job_title": "Network Data Science Intern",
+    "company": "Bandwidth",
+    "location": "Austin, TX",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "APIs",
+      "Privacy"
+    ],
+    "perks": [
+      "Flex vacation",
+      "Health care",
+      "Unlimited paid time off"
+    ],
+    "job_description": "Network Data Science Intern at Bandwidth (Internship, Entry-level) in Austin, TX. Key skills: APIs, Privacy. Perks: Flex vacation, Health care, Unlimited paid time off."
+  },
+  {
+    "job_id": "JOB-074",
+    "job_title": "Stage - Ing\u00e9nieur v\u00e9hicule autonome",
+    "company": "ALTEN",
+    "location": "S\u00e8vres, France",
+    "job_type": "Full Time",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Python",
+      "R",
+      "R&D"
+    ],
+    "perks": [
+      "Career development"
+    ],
+    "job_description": "Stage - Ing\u00e9nieur v\u00e9hicule autonome at ALTEN (Full Time, Entry-level) in S\u00e8vres, France. Key skills: Python, R, R&D. Perks: Career development."
+  },
+  {
+    "job_id": "JOB-075",
+    "job_title": "Data Science Intern, Computational Biology",
+    "company": "Verily",
+    "location": "South San Francisco, CA",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Architecture",
+      "Biology",
+      "Computer Science",
+      "Data analysis",
+      "EDA",
+      "Engineering"
+    ],
+    "perks": [
+      "Career development",
+      "Competitive pay",
+      "Health care"
+    ],
+    "job_description": "Data Science Intern, Computational Biology at Verily (Internship, Entry-level) in South San Francisco, CA. Key skills: Architecture, Biology, Computer Science, Data analysis, EDA, Engineering. Perks: Career development, Competitive pay, Health care."
+  },
+  {
+    "job_id": "JOB-076",
+    "job_title": "Data Analytics Intern, Innovation Operations",
+    "company": "ServiceNow",
+    "location": "Santa Clara, CALIFORNIA, United States",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Computer Science",
+      "Data Analytics",
+      "Data visualization",
+      "Economics",
+      "Excel",
+      "Finance"
+    ],
+    "perks": [
+      "401(k) matching",
+      "Competitive pay",
+      "Equity"
+    ],
+    "job_description": "Data Analytics Intern, Innovation Operations at ServiceNow (Internship, Entry-level) in Santa Clara, CALIFORNIA, United States. Key skills: Computer Science, Data Analytics, Data visualization, Economics, Excel, Finance. Perks: 401(k) matching, Competitive pay, Equity."
+  },
+  {
+    "job_id": "JOB-077",
+    "job_title": "2023 Co-op Student - Digital Automation -- Data Analyst (May- Nov)",
+    "company": "Bosch Group",
+    "location": "Oakbrook Terrace, IL, United States",
+    "job_type": "Full Time",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Computer Science",
+      "Engineering",
+      "Excel",
+      "Industrial",
+      "KNIME",
+      "Mathematics"
+    ],
+    "perks": [
+      "Team events"
+    ],
+    "job_description": "2023 Co-op Student - Digital Automation -- Data Analyst (May- Nov) at Bosch Group (Full Time, Entry-level) in Oakbrook Terrace, IL, United States. Key skills: Computer Science, Engineering, Excel, Industrial, KNIME, Mathematics. Perks: Team events."
+  },
+  {
+    "job_id": "JOB-078",
+    "job_title": "Summer Intern: Data Science",
+    "company": "G2",
+    "location": "Chicago",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "AWS",
+      "Data analysis",
+      "EDA",
+      "Machine Learning",
+      "ML infrastructure",
+      "NLP"
+    ],
+    "perks": [
+      "Career development",
+      "Flex vacation",
+      "Parental leave"
+    ],
+    "job_description": "Summer Intern: Data Science at G2 (Internship, Entry-level) in Chicago. Key skills: AWS, Data analysis, EDA, Machine Learning, ML infrastructure, NLP. Perks: Career development, Flex vacation, Parental leave."
+  },
+  {
+    "job_id": "JOB-079",
+    "job_title": "Data Engineer - Intern (Summer 2023)",
+    "company": "Cloudflare, Inc.",
+    "location": "San Francisco or Austin",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Angular",
+      "APIs",
+      "Architecture",
+      "Computer Science",
+      "Data Analytics",
+      "Engineering"
+    ],
+    "perks": [],
+    "job_description": "Data Engineer - Intern (Summer 2023) at Cloudflare, Inc. (Internship, Entry-level) in San Francisco or Austin. Key skills: Angular, APIs, Architecture, Computer Science, Data Analytics, Engineering."
+  },
+  {
+    "job_id": "JOB-080",
+    "job_title": "Business Data Analyst Intern (APAC)",
+    "company": "Back Market",
+    "location": "Paris",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Consulting",
+      "Data visualization",
+      "KPIs",
+      "Python",
+      "SQL",
+      "Tableau"
+    ],
+    "perks": [
+      "Flex hours",
+      "Health care",
+      "Insurance"
+    ],
+    "job_description": "Business Data Analyst Intern (APAC) at Back Market (Internship, Entry-level) in Paris. Key skills: Consulting, Data visualization, KPIs, Python, SQL, Tableau. Perks: Flex hours, Health care, Insurance."
+  },
+  {
+    "job_id": "JOB-081",
+    "job_title": "Junior Data Analyst (end-of-studies internship)",
+    "company": "Voodoo",
+    "location": "Paris",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Consulting",
+      "Engineering",
+      "Excel",
+      "Machine Learning",
+      "Mathematics",
+      "SQL"
+    ],
+    "perks": [
+      "Career development",
+      "Competitive pay",
+      "Lunch / meals"
+    ],
+    "job_description": "Junior Data Analyst (end-of-studies internship) at Voodoo (Internship, Entry-level) in Paris. Key skills: Consulting, Engineering, Excel, Machine Learning, Mathematics, SQL. Perks: Career development, Competitive pay, Lunch / meals."
+  },
+  {
+    "job_id": "JOB-082",
+    "job_title": "Consultant.e.s \u2013 Stage/Alternance - IT & Data Architecture",
+    "company": "Wavestone",
+    "location": "Nantes, France",
+    "job_type": "Full Time",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "APIs",
+      "Architecture",
+      "AWS",
+      "Azure",
+      "Big Data",
+      "DevOps"
+    ],
+    "perks": [],
+    "job_description": "Consultant.e.s \u2013 Stage/Alternance - IT & Data Architecture at Wavestone (Full Time, Entry-level) in Nantes, France. Key skills: APIs, Architecture, AWS, Azure, Big Data, DevOps."
+  },
+  {
+    "job_id": "JOB-083",
+    "job_title": "Product Data Analyst Intern m/f/d",
+    "company": "Deezer",
+    "location": "Paris, France",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Data analysis",
+      "Data pipelines",
+      "Data visualization",
+      "KPIs",
+      "Pipelines",
+      "Python"
+    ],
+    "perks": [
+      "Career development",
+      "Health care",
+      "Insurance"
+    ],
+    "job_description": "Product Data Analyst Intern m/f/d at Deezer (Internship, Entry-level) in Paris, France. Key skills: Data analysis, Data pipelines, Data visualization, KPIs, Pipelines, Python. Perks: Career development, Health care, Insurance."
+  },
+  {
+    "job_id": "JOB-084",
+    "job_title": "2023 Business Intelligence Engineer Internship",
+    "company": "Amazon.com",
+    "location": "Milan, Lombardy, ITA",
+    "job_type": "Full Time",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "AWS",
+      "Business Intelligence",
+      "Computer Science",
+      "Data Mining",
+      "Data pipelines",
+      "Data warehouse"
+    ],
+    "perks": [
+      "Career development",
+      "Competitive pay",
+      "Flex hours"
+    ],
+    "job_description": "2023 Business Intelligence Engineer Internship at Amazon.com (Full Time, Entry-level) in Milan, Lombardy, ITA. Key skills: AWS, Business Intelligence, Computer Science, Data Mining, Data pipelines, Data warehouse. Perks: Career development, Competitive pay, Flex hours."
+  },
+  {
+    "job_id": "JOB-085",
+    "job_title": "Data Scientist Trainee (m/w/d)",
+    "company": "Syngenta Group",
+    "location": "Frankfurt am Main, Germany",
+    "job_type": "Full Time",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "AWS",
+      "Big Data",
+      "Data Mining",
+      "Deep Learning",
+      "Machine Learning",
+      "NoSQL"
+    ],
+    "perks": [],
+    "job_description": "Data Scientist Trainee (m/w/d) at Syngenta Group (Full Time, Entry-level) in Frankfurt am Main, Germany. Key skills: AWS, Big Data, Data Mining, Deep Learning, Machine Learning, NoSQL."
+  },
+  {
+    "job_id": "JOB-086",
+    "job_title": "Data Science & Analytics, Summer Intern",
+    "company": "Publicis Groupe",
+    "location": "Springdale, AR, United States",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Data visualization",
+      "Excel",
+      "Mathematics",
+      "Statistics",
+      "STEM",
+      "Tableau"
+    ],
+    "perks": [
+      "Career development",
+      "Home office stipend",
+      "Insurance"
+    ],
+    "job_description": "Data Science & Analytics, Summer Intern at Publicis Groupe (Internship, Entry-level) in Springdale, AR, United States. Key skills: Data visualization, Excel, Mathematics, Statistics, STEM, Tableau. Perks: Career development, Home office stipend, Insurance."
+  },
+  {
+    "job_id": "JOB-087",
+    "job_title": "Business Intelligence & Data Visualization",
+    "company": "Wavestone",
+    "location": "Paris, France",
+    "job_type": "Full Time",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Agile",
+      "Business Intelligence",
+      "Data visualization",
+      "Machine Learning",
+      "Research",
+      "UX"
+    ],
+    "perks": [],
+    "job_description": "Business Intelligence & Data Visualization at Wavestone (Full Time, Entry-level) in Paris, France. Key skills: Agile, Business Intelligence, Data visualization, Machine Learning, Research, UX."
+  },
+  {
+    "job_id": "JOB-088",
+    "job_title": "Data Analyst Intern - Singapore",
+    "company": "Moloco",
+    "location": "Singapore, Central Singapore, Singapore",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Data analysis",
+      "GCP",
+      "Google Cloud",
+      "Machine Learning",
+      "ML models",
+      "Python"
+    ],
+    "perks": [
+      "Career development"
+    ],
+    "job_description": "Data Analyst Intern - Singapore at Moloco (Internship, Entry-level) in Singapore, Central Singapore, Singapore. Key skills: Data analysis, GCP, Google Cloud, Machine Learning, ML models, Python. Perks: Career development."
+  },
+  {
+    "job_id": "JOB-089",
+    "job_title": "Data Analyst Intern",
+    "company": "Funding Societies",
+    "location": "Bangkok, Bangkok, Thailand - Remote",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Business Intelligence",
+      "Data Analytics",
+      "Data visualization",
+      "Data warehouse",
+      "Finance",
+      "FinTech"
+    ],
+    "perks": [
+      "Career development",
+      "Flex hours",
+      "Flex vacation"
+    ],
+    "job_description": "Data Analyst Intern at Funding Societies (Internship, Entry-level) in Bangkok, Bangkok, Thailand - Remote. Key skills: Business Intelligence, Data Analytics, Data visualization, Data warehouse, Finance, FinTech. Perks: Career development, Flex hours, Flex vacation."
+  },
+  {
+    "job_id": "JOB-090",
+    "job_title": "Machine Learning/Artificial Intelligence Intern",
+    "company": "Guardant Health",
+    "location": "Palo Alto, CA, United States",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Biology",
+      "Computer Science",
+      "HPC",
+      "Linux",
+      "Machine Learning",
+      "NLP"
+    ],
+    "perks": [
+      "Career development",
+      "Equity",
+      "Health care"
+    ],
+    "job_description": "Machine Learning/Artificial Intelligence Intern at Guardant Health (Internship, Entry-level) in Palo Alto, CA, United States. Key skills: Biology, Computer Science, HPC, Linux, Machine Learning, NLP. Perks: Career development, Equity, Health care."
+  },
+  {
+    "job_id": "JOB-091",
+    "job_title": "NLP Software Engineer, Intern",
+    "company": "Merlin Labs",
+    "location": "Boston",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "BERT",
+      "Computer Science",
+      "Data analysis",
+      "GitHub",
+      "GPT",
+      "Machine Learning"
+    ],
+    "perks": [
+      "401(k) matching",
+      "Career development",
+      "Health care"
+    ],
+    "job_description": "NLP Software Engineer, Intern at Merlin Labs (Internship, Entry-level) in Boston. Key skills: BERT, Computer Science, Data analysis, GitHub, GPT, Machine Learning. Perks: 401(k) matching, Career development, Health care."
+  },
+  {
+    "job_id": "JOB-092",
+    "job_title": "Data Engineer - Intern",
+    "company": "Snowflake Inc.",
+    "location": "Pune, India",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Airflow",
+      "APIs",
+      "AWS",
+      "Azure",
+      "Computer Science",
+      "Data pipelines"
+    ],
+    "perks": [],
+    "job_description": "Data Engineer - Intern at Snowflake Inc. (Internship, Entry-level) in Pune, India. Key skills: Airflow, APIs, AWS, Azure, Computer Science, Data pipelines."
+  },
+  {
+    "job_id": "JOB-093",
+    "job_title": "Perception Intern, Deep Learning Data",
+    "company": "Outrider",
+    "location": "Brighton, Colorado",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "AWS",
+      "Deep Learning",
+      "Docker",
+      "Git",
+      "Lidar",
+      "Python"
+    ],
+    "perks": [],
+    "job_description": "Perception Intern, Deep Learning Data at Outrider (Internship, Entry-level) in Brighton, Colorado. Key skills: AWS, Deep Learning, Docker, Git, Lidar, Python."
+  },
+  {
+    "job_id": "JOB-094",
+    "job_title": "Data Analyst Intern - Korea",
+    "company": "Moloco",
+    "location": "Gangnam-gu, Seoul, South Korea",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Data analysis",
+      "GCP",
+      "Google Cloud",
+      "Machine Learning",
+      "ML models",
+      "Python"
+    ],
+    "perks": [
+      "Career development"
+    ],
+    "job_description": "Data Analyst Intern - Korea at Moloco (Internship, Entry-level) in Gangnam-gu, Seoul, South Korea. Key skills: Data analysis, GCP, Google Cloud, Machine Learning, ML models, Python. Perks: Career development."
+  },
+  {
+    "job_id": "JOB-095",
+    "job_title": "Intern, AI research engineer",
+    "company": "Bosch Group",
+    "location": "Singapore, Singapore",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Computer Science",
+      "Computer Vision",
+      "Deep Learning",
+      "Engineering",
+      "Industrial",
+      "Machine Learning"
+    ],
+    "perks": [
+      "Career development"
+    ],
+    "job_description": "Intern, AI research engineer at Bosch Group (Internship, Entry-level) in Singapore, Singapore. Key skills: Computer Science, Computer Vision, Deep Learning, Engineering, Industrial, Machine Learning. Perks: Career development."
+  },
+  {
+    "job_id": "JOB-096",
+    "job_title": "Phd -Interns, Data Scientist",
+    "company": "Western Digital",
+    "location": "Bengaluru, India",
+    "job_type": "Full Time",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Agile",
+      "Architecture",
+      "Classification",
+      "Data Mining",
+      "Data pipelines",
+      "Deep Learning"
+    ],
+    "perks": [],
+    "job_description": "Phd -Interns, Data Scientist at Western Digital (Full Time, Entry-level) in Bengaluru, India. Key skills: Agile, Architecture, Classification, Data Mining, Data pipelines, Deep Learning."
+  },
+  {
+    "job_id": "JOB-097",
+    "job_title": "Computational Biology Intern",
+    "company": "Schr\u00f6dinger",
+    "location": "New York",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Biology",
+      "Computer Science",
+      "Deep Learning",
+      "Drug discovery",
+      "Machine Learning",
+      "Python"
+    ],
+    "perks": [
+      "401(k) matching",
+      "Career development",
+      "Competitive pay"
+    ],
+    "job_description": "Computational Biology Intern at Schr\u00f6dinger (Internship, Entry-level) in New York. Key skills: Biology, Computer Science, Deep Learning, Drug discovery, Machine Learning, Python. Perks: 401(k) matching, Career development, Competitive pay."
+  },
+  {
+    "job_id": "JOB-098",
+    "job_title": "Amazon Robotics - Applied Scientist Intern/Co-op - 2023",
+    "company": "Amazon.com",
+    "location": "Westborough, Massachusetts, USA",
+    "job_type": "Full Time",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Computer Science",
+      "Computer Vision",
+      "Engineering",
+      "Machine Learning",
+      "Mathematics",
+      "PhD"
+    ],
+    "perks": [],
+    "job_description": "Amazon Robotics - Applied Scientist Intern/Co-op - 2023 at Amazon.com (Full Time, Entry-level) in Westborough, Massachusetts, USA. Key skills: Computer Science, Computer Vision, Engineering, Machine Learning, Mathematics, PhD."
+  },
+  {
+    "job_id": "JOB-099",
+    "job_title": "PhD Machine Learning Engineer Intern (Summer 2023)",
+    "company": "Block",
+    "location": "San Francisco, CA, United States",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Architecture",
+      "AWS",
+      "Banking",
+      "Blockchain",
+      "Computer Science",
+      "Crypto"
+    ],
+    "perks": [
+      "Career development",
+      "Equity",
+      "Health care"
+    ],
+    "job_description": "PhD Machine Learning Engineer Intern (Summer 2023) at Block (Internship, Entry-level) in San Francisco, CA, United States. Key skills: Architecture, AWS, Banking, Blockchain, Computer Science, Crypto. Perks: Career development, Equity, Health care."
+  },
+  {
+    "job_id": "JOB-100",
+    "job_title": "Reporting and Data Infrastructure Intern",
+    "company": "Chime",
+    "location": "Remote, San Francisco",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Banking",
+      "Computer Science",
+      "Data governance",
+      "FinTech",
+      "LookML",
+      "Privacy"
+    ],
+    "perks": [
+      "401(k) matching",
+      "Career development",
+      "Competitive pay"
+    ],
+    "job_description": "Reporting and Data Infrastructure Intern at Chime (Internship, Entry-level) in Remote, San Francisco. Key skills: Banking, Computer Science, Data governance, FinTech, LookML, Privacy. Perks: 401(k) matching, Career development, Competitive pay."
+  },
+  {
+    "job_id": "JOB-101",
+    "job_title": "Campus | Data Engineer (Intern)",
+    "company": "Jump Trading",
+    "location": "Singapore",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Data Analytics",
+      "Economics",
+      "Engineering",
+      "Finance",
+      "Linux",
+      "MySQL"
+    ],
+    "perks": [
+      "Career development"
+    ],
+    "job_description": "Campus | Data Engineer (Intern) at Jump Trading (Internship, Entry-level) in Singapore. Key skills: Data Analytics, Economics, Engineering, Finance, Linux, MySQL. Perks: Career development."
+  },
+  {
+    "job_id": "JOB-102",
+    "job_title": "Data Analyst Intern (Summer 2023)",
+    "company": "Cloudflare, Inc.",
+    "location": "Remote US",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Big Data",
+      "BigQuery",
+      "Computer Science",
+      "Data Analytics",
+      "Engineering",
+      "Finance"
+    ],
+    "perks": [
+      "Career development",
+      "Startup environment"
+    ],
+    "job_description": "Data Analyst Intern (Summer 2023) at Cloudflare, Inc. (Internship, Entry-level) in Remote US. Key skills: Big Data, BigQuery, Computer Science, Data Analytics, Engineering, Finance. Perks: Career development, Startup environment."
+  },
+  {
+    "job_id": "JOB-103",
+    "job_title": "Data Science Intern (Summer 2023)",
+    "company": "Block",
+    "location": "San Francisco, CA, United States",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "A/B testing",
+      "Airflow",
+      "Banking",
+      "BigQuery",
+      "Blockchain",
+      "Computer Science"
+    ],
+    "perks": [
+      "Career development",
+      "Equity",
+      "Flex vacation"
+    ],
+    "job_description": "Data Science Intern (Summer 2023) at Block (Internship, Entry-level) in San Francisco, CA, United States. Key skills: A/B testing, Airflow, Banking, BigQuery, Blockchain, Computer Science. Perks: Career development, Equity, Flex vacation."
+  },
+  {
+    "job_id": "JOB-104",
+    "job_title": "Data Engineer Internship",
+    "company": "GoodRx",
+    "location": "Santa Monica, CA",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "AWS",
+      "Data pipelines",
+      "DevOps",
+      "Engineering",
+      "ETL",
+      "Excel"
+    ],
+    "perks": [
+      "Health care"
+    ],
+    "job_description": "Data Engineer Internship at GoodRx (Internship, Entry-level) in Santa Monica, CA. Key skills: AWS, Data pipelines, DevOps, Engineering, ETL, Excel. Perks: Health care."
+  },
+  {
+    "job_id": "JOB-105",
+    "job_title": "Data Analytics Intern: Consumer Economics",
+    "company": "Chime",
+    "location": "San Francisco, CA",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Banking",
+      "Data Analytics",
+      "Data visualization",
+      "Economics",
+      "FinTech",
+      "Privacy"
+    ],
+    "perks": [
+      "401(k) matching",
+      "Career development",
+      "Competitive pay"
+    ],
+    "job_description": "Data Analytics Intern: Consumer Economics at Chime (Internship, Entry-level) in San Francisco, CA. Key skills: Banking, Data Analytics, Data visualization, Economics, FinTech, Privacy. Perks: 401(k) matching, Career development, Competitive pay."
+  },
+  {
+    "job_id": "JOB-106",
+    "job_title": "Grad Intern: Bioinformatics/Assay Data Visualization and Analysis",
+    "company": "Guardant Health",
+    "location": "Palo Alto, CA, United States",
+    "job_type": "Full Time",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Data Analytics",
+      "Data visualization",
+      "Engineering",
+      "Matplotlib",
+      "PhD",
+      "Plotly"
+    ],
+    "perks": [
+      "Career development",
+      "Health care",
+      "Salary bonus"
+    ],
+    "job_description": "Grad Intern: Bioinformatics/Assay Data Visualization and Analysis at Guardant Health (Full Time, Entry-level) in Palo Alto, CA, United States. Key skills: Data Analytics, Data visualization, Engineering, Matplotlib, PhD, Plotly. Perks: Career development, Health care, Salary bonus."
+  },
+  {
+    "job_id": "JOB-107",
+    "job_title": "Data Operations Intern (Quality Assurance)",
+    "company": "605",
+    "location": "Syosset, New York, United States",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Agile",
+      "Databricks",
+      "DataOps",
+      "Excel",
+      "Jira",
+      "PySpark"
+    ],
+    "perks": [
+      "Startup environment"
+    ],
+    "job_description": "Data Operations Intern (Quality Assurance) at 605 (Internship, Entry-level) in Syosset, New York, United States. Key skills: Agile, Databricks, DataOps, Excel, Jira, PySpark. Perks: Startup environment."
+  },
+  {
+    "job_id": "JOB-108",
+    "job_title": "Data Science Intern",
+    "company": "Etsy",
+    "location": "Brooklyn, NY, United States",
+    "job_type": "Full Time",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Causal inference",
+      "Computer Science",
+      "Economics",
+      "Machine Learning",
+      "PhD",
+      "Python"
+    ],
+    "perks": [
+      "Equity"
+    ],
+    "job_description": "Data Science Intern at Etsy (Full Time, Entry-level) in Brooklyn, NY, United States. Key skills: Causal inference, Computer Science, Economics, Machine Learning, PhD, Python. Perks: Equity."
+  },
+  {
+    "job_id": "JOB-109",
+    "job_title": "Data Engineer / Data Analyst - Stage de fin d'\u00e9tudes - Paris 2e",
+    "company": "CleverConnect",
+    "location": "Paris, France",
+    "job_type": "Full Time",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Agile",
+      "Architecture",
+      "AWS",
+      "BigQuery",
+      "Dataflow",
+      "Data visualization"
+    ],
+    "perks": [
+      "Career development",
+      "Yoga"
+    ],
+    "job_description": "Data Engineer / Data Analyst - Stage de fin d'\u00e9tudes - Paris 2e at CleverConnect (Full Time, Entry-level) in Paris, France. Key skills: Agile, Architecture, AWS, BigQuery, Dataflow, Data visualization. Perks: Career development, Yoga."
+  },
+  {
+    "job_id": "JOB-110",
+    "job_title": "[Internship] - Junior Data Scientist #2 (W/M)",
+    "company": "ManoMano",
+    "location": "Paris 75017",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Agile",
+      "Biology",
+      "Computer Science",
+      "Data analysis",
+      "E-commerce",
+      "Economics"
+    ],
+    "perks": [
+      "Career development",
+      "Conferences",
+      "Flex vacation"
+    ],
+    "job_description": "[Internship] - Junior Data Scientist #2 (W/M) at ManoMano (Internship, Entry-level) in Paris 75017. Key skills: Agile, Biology, Computer Science, Data analysis, E-commerce, Economics. Perks: Career development, Conferences, Flex vacation."
+  },
+  {
+    "job_id": "JOB-111",
+    "job_title": "[Internship] - Junior Data Scientist #1 (W/M)",
+    "company": "ManoMano",
+    "location": "Paris 75017",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Agile",
+      "Biology",
+      "Computer Science",
+      "Data analysis",
+      "E-commerce",
+      "Economics"
+    ],
+    "perks": [
+      "Career development",
+      "Conferences",
+      "Flex vacation"
+    ],
+    "job_description": "[Internship] - Junior Data Scientist #1 (W/M) at ManoMano (Internship, Entry-level) in Paris 75017. Key skills: Agile, Biology, Computer Science, Data analysis, E-commerce, Economics. Perks: Career development, Conferences, Flex vacation."
+  },
+  {
+    "job_id": "JOB-112",
+    "job_title": "PhD Intern - Data Science",
+    "company": "Western Digital",
+    "location": "Bengaluru, India",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Big Data",
+      "Computer Science",
+      "Data Analytics",
+      "Deep Learning",
+      "Engineering",
+      "Linear algebra"
+    ],
+    "perks": [
+      "Career development",
+      "Medical leave"
+    ],
+    "job_description": "PhD Intern - Data Science at Western Digital (Internship, Entry-level) in Bengaluru, India. Key skills: Big Data, Computer Science, Data Analytics, Deep Learning, Engineering, Linear algebra. Perks: Career development, Medical leave."
+  },
+  {
+    "job_id": "JOB-113",
+    "job_title": "Jr Data Engineer - Internship",
+    "company": "Bosch Group",
+    "location": "Cernusco sul Naviglio, Italy",
+    "job_type": "Full Time",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Business Intelligence",
+      "Computer Science",
+      "Data analysis",
+      "Engineering",
+      "Industrial",
+      "Mathematics"
+    ],
+    "perks": [
+      "Startup environment"
+    ],
+    "job_description": "Jr Data Engineer - Internship at Bosch Group (Full Time, Entry-level) in Cernusco sul Naviglio, Italy. Key skills: Business Intelligence, Computer Science, Data analysis, Engineering, Industrial, Mathematics. Perks: Startup environment."
+  },
+  {
+    "job_id": "JOB-114",
+    "job_title": "Engineering Intern (Data Engineering)",
+    "company": "605",
+    "location": "Syosset, New York, United States",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Agile",
+      "Architecture",
+      "AWS",
+      "Azure",
+      "Big Data",
+      "Data visualization"
+    ],
+    "perks": [
+      "Career development",
+      "Startup environment"
+    ],
+    "job_description": "Engineering Intern (Data Engineering) at 605 (Internship, Entry-level) in Syosset, New York, United States. Key skills: Agile, Architecture, AWS, Azure, Big Data, Data visualization. Perks: Career development, Startup environment."
+  },
+  {
+    "job_id": "JOB-115",
+    "job_title": "[Internship] Machine Learning",
+    "company": "Enterpret",
+    "location": "Remote (India)",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Deep Learning",
+      "Linear algebra",
+      "Machine Learning",
+      "NLP",
+      "NumPy",
+      "Pandas"
+    ],
+    "perks": [
+      "Career development"
+    ],
+    "job_description": "[Internship] Machine Learning at Enterpret (Internship, Entry-level) in Remote (India). Key skills: Deep Learning, Linear algebra, Machine Learning, NLP, NumPy, Pandas. Perks: Career development."
+  },
+  {
+    "job_id": "JOB-116",
+    "job_title": "Research Analyst Intern (Summer 2023 )",
+    "company": "Lightcast",
+    "location": "Remote (Work From Home) US",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Consulting",
+      "Economics",
+      "Excel",
+      "Python",
+      "Research",
+      "SQL"
+    ],
+    "perks": [
+      "Career development",
+      "Team events"
+    ],
+    "job_description": "Research Analyst Intern (Summer 2023 ) at Lightcast (Internship, Entry-level) in Remote (Work From Home) US. Key skills: Consulting, Economics, Excel, Python, Research, SQL. Perks: Career development, Team events."
+  },
+  {
+    "job_id": "JOB-117",
+    "job_title": "Data Operations Intern (Data Management)",
+    "company": "605",
+    "location": "Syosset, New York, United States",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Agile",
+      "Databricks",
+      "Data management",
+      "DataOps",
+      "Data quality",
+      "Excel"
+    ],
+    "perks": [
+      "Startup environment"
+    ],
+    "job_description": "Data Operations Intern (Data Management) at 605 (Internship, Entry-level) in Syosset, New York, United States. Key skills: Agile, Databricks, Data management, DataOps, Data quality, Excel. Perks: Startup environment."
+  },
+  {
+    "job_id": "JOB-118",
+    "job_title": "Data Scientist Intern",
+    "company": "Fifty-Five",
+    "location": "Paris, \u00cele-de-France, France",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Deep Learning",
+      "NumPy",
+      "Pandas",
+      "Python",
+      "R",
+      "R&D"
+    ],
+    "perks": [
+      "Career development"
+    ],
+    "job_description": "Data Scientist Intern at Fifty-Five (Internship, Entry-level) in Paris, \u00cele-de-France, France. Key skills: Deep Learning, NumPy, Pandas, Python, R, R&D. Perks: Career development."
+  },
+  {
+    "job_id": "JOB-119",
+    "job_title": "Intern, Data Engineering - Digital Innovation (Summer 2023)",
+    "company": "Western Digital",
+    "location": "Milpitas, CA, United States",
+    "job_type": "Full Time",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Computer Science",
+      "Data analysis",
+      "Data pipelines",
+      "Data quality",
+      "EDA",
+      "Engineering"
+    ],
+    "perks": [
+      "Medical leave"
+    ],
+    "job_description": "Intern, Data Engineering - Digital Innovation (Summer 2023) at Western Digital (Full Time, Entry-level) in Milpitas, CA, United States. Key skills: Computer Science, Data analysis, Data pipelines, Data quality, EDA, Engineering. Perks: Medical leave."
+  },
+  {
+    "job_id": "JOB-120",
+    "job_title": "Data Science & Analytics Intern",
+    "company": "Zeta Global",
+    "location": "New York City, NY",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Business Intelligence",
+      "Data pipelines",
+      "ETL",
+      "Machine Learning",
+      "MySQL",
+      "Pipelines"
+    ],
+    "perks": [
+      "Lunch / meals",
+      "Team events"
+    ],
+    "job_description": "Data Science & Analytics Intern at Zeta Global (Internship, Entry-level) in New York City, NY. Key skills: Business Intelligence, Data pipelines, ETL, Machine Learning, MySQL, Pipelines. Perks: Lunch / meals, Team events."
+  },
+  {
+    "job_id": "JOB-121",
+    "job_title": "AI/ML Graduate Intern with Focus on AI Engineering (6 - 12 Months)",
+    "company": "Bosch Group",
+    "location": "Mount Prospect, IL, United States",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "AWS",
+      "Azure",
+      "Computer Science",
+      "Engineering",
+      "GCP",
+      "Industrial"
+    ],
+    "perks": [],
+    "job_description": "AI/ML Graduate Intern with Focus on AI Engineering (6 - 12 Months) at Bosch Group (Internship, Entry-level) in Mount Prospect, IL, United States. Key skills: AWS, Azure, Computer Science, Engineering, GCP, Industrial."
+  },
+  {
+    "job_id": "JOB-122",
+    "job_title": "Data Analytics Intern",
+    "company": "takealot.com",
+    "location": "Cape Town",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Data Analytics",
+      "E-commerce"
+    ],
+    "perks": [
+      "Career development",
+      "Competitive pay",
+      "Flex vacation"
+    ],
+    "job_description": "Data Analytics Intern at takealot.com (Internship, Entry-level) in Cape Town. Key skills: Data Analytics, E-commerce. Perks: Career development, Competitive pay, Flex vacation."
+  },
+  {
+    "job_id": "JOB-123",
+    "job_title": "Data Science Intern",
+    "company": "Recorded Future, Inc.",
+    "location": "Boston, MA",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Python",
+      "Security"
+    ],
+    "perks": [
+      "Startup environment"
+    ],
+    "job_description": "Data Science Intern at Recorded Future, Inc. (Internship, Entry-level) in Boston, MA. Key skills: Python, Security. Perks: Startup environment."
+  },
+  {
+    "job_id": "JOB-124",
+    "job_title": "Data Analytics Intern (Pricing Analyst) - 2023 Summer Internship Program - CR",
+    "company": "Verisk",
+    "location": "Krak\u00f3w, Poland",
+    "job_type": "Part Time",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Business Intelligence",
+      "Data analysis",
+      "Data Analytics",
+      "Data management",
+      "Data quality",
+      "Data visualization"
+    ],
+    "perks": [
+      "Career development",
+      "Equity",
+      "Insurance"
+    ],
+    "job_description": "Data Analytics Intern (Pricing Analyst) - 2023 Summer Internship Program - CR at Verisk (Part Time, Entry-level) in Krak\u00f3w, Poland. Key skills: Business Intelligence, Data analysis, Data Analytics, Data management, Data quality, Data visualization. Perks: Career development, Equity, Insurance."
+  },
+  {
+    "job_id": "JOB-125",
+    "job_title": "Internship: Data Analyst Intern",
+    "company": "Unite Us",
+    "location": "New York City",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Computer Science",
+      "Data Analytics",
+      "Mathematics",
+      "Physics",
+      "SQL",
+      "Statistics"
+    ],
+    "perks": [
+      "Startup environment"
+    ],
+    "job_description": "Internship: Data Analyst Intern at Unite Us (Internship, Entry-level) in New York City. Key skills: Computer Science, Data Analytics, Mathematics, Physics, SQL, Statistics. Perks: Startup environment."
+  },
+  {
+    "job_id": "JOB-126",
+    "job_title": "Data Analyst - Stage de fin d'\u00e9tudes - Paris 2e",
+    "company": "CleverConnect",
+    "location": "Paris, France",
+    "job_type": "Full Time",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Agile",
+      "Architecture",
+      "AWS",
+      "BigQuery",
+      "Dataflow",
+      "Data visualization"
+    ],
+    "perks": [
+      "Career development",
+      "Yoga"
+    ],
+    "job_description": "Data Analyst - Stage de fin d'\u00e9tudes - Paris 2e at CleverConnect (Full Time, Entry-level) in Paris, France. Key skills: Agile, Architecture, AWS, BigQuery, Dataflow, Data visualization. Perks: Career development, Yoga."
+  },
+  {
+    "job_id": "JOB-127",
+    "job_title": "Internship Big Data for Fleet Validation",
+    "company": "Bosch Group",
+    "location": "Stuttgart, Germany",
+    "job_type": "Full Time",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Agile",
+      "Azure",
+      "Big Data",
+      "Data analysis",
+      "Databricks",
+      "Engineering"
+    ],
+    "perks": [
+      "Startup environment"
+    ],
+    "job_description": "Internship Big Data for Fleet Validation at Bosch Group (Full Time, Entry-level) in Stuttgart, Germany. Key skills: Agile, Azure, Big Data, Data analysis, Databricks, Engineering. Perks: Startup environment."
+  },
+  {
+    "job_id": "JOB-128",
+    "job_title": "Data Engineer - Stage de fin d'\u00e9tudes - Paris 2e",
+    "company": "CleverConnect",
+    "location": "Paris, France",
+    "job_type": "Full Time",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Agile",
+      "Architecture",
+      "AWS",
+      "BigQuery",
+      "Dataflow",
+      "Data visualization"
+    ],
+    "perks": [
+      "Career development",
+      "Yoga"
+    ],
+    "job_description": "Data Engineer - Stage de fin d'\u00e9tudes - Paris 2e at CleverConnect (Full Time, Entry-level) in Paris, France. Key skills: Agile, Architecture, AWS, BigQuery, Dataflow, Data visualization. Perks: Career development, Yoga."
+  },
+  {
+    "job_id": "JOB-129",
+    "job_title": "AI/ML Summer Intern",
+    "company": "Balbix",
+    "location": "San Jose, CA",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Data pipelines",
+      "Distributed Systems",
+      "Engineering",
+      "Linear algebra",
+      "Machine Learning",
+      "ML infrastructure"
+    ],
+    "perks": [
+      "Career development",
+      "Flex vacation",
+      "Health care"
+    ],
+    "job_description": "AI/ML Summer Intern at Balbix (Internship, Entry-level) in San Jose, CA. Key skills: Data pipelines, Distributed Systems, Engineering, Linear algebra, Machine Learning, ML infrastructure. Perks: Career development, Flex vacation, Health care."
+  },
+  {
+    "job_id": "JOB-130",
+    "job_title": "Internship: Data Science Intern",
+    "company": "Unite Us",
+    "location": "New York City",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Computer Science",
+      "Mathematics",
+      "Pandas",
+      "Physics",
+      "Python",
+      "Research"
+    ],
+    "perks": [
+      "Career development"
+    ],
+    "job_description": "Internship: Data Science Intern at Unite Us (Internship, Entry-level) in New York City. Key skills: Computer Science, Mathematics, Pandas, Physics, Python, Research. Perks: Career development."
+  },
+  {
+    "job_id": "JOB-131",
+    "job_title": "Machine Learning Engineer Summer 2023 Internship",
+    "company": "Dyno Therapeutics",
+    "location": "Watertown, MA",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Biology",
+      "Computer Science",
+      "Engineering",
+      "Machine Learning",
+      "Mathematics",
+      "ML infrastructure"
+    ],
+    "perks": [
+      "Startup environment"
+    ],
+    "job_description": "Machine Learning Engineer Summer 2023 Internship at Dyno Therapeutics (Internship, Entry-level) in Watertown, MA. Key skills: Biology, Computer Science, Engineering, Machine Learning, Mathematics, ML infrastructure. Perks: Startup environment."
+  },
+  {
+    "job_id": "JOB-132",
+    "job_title": "Machine Learning Internship",
+    "company": "Burro",
+    "location": "Philadelphia, PA",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Computer Vision",
+      "CUDA",
+      "Deep Learning",
+      "Engineering",
+      "GPU",
+      "Machine Learning"
+    ],
+    "perks": [],
+    "job_description": "Machine Learning Internship at Burro (Internship, Entry-level) in Philadelphia, PA. Key skills: Computer Vision, CUDA, Deep Learning, Engineering, GPU, Machine Learning."
+  },
+  {
+    "job_id": "JOB-133",
+    "job_title": "Digital Data Analyst",
+    "company": "Publicis Groupe",
+    "location": "Bogot\u00e1, Colombia",
+    "job_type": "Full Time",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Data Studio",
+      "Excel",
+      "Jira",
+      "Spark"
+    ],
+    "perks": [],
+    "job_description": "Digital Data Analyst at Publicis Groupe (Full Time, Entry-level) in Bogot\u00e1, Colombia. Key skills: Data Studio, Excel, Jira, Spark."
+  },
+  {
+    "job_id": "JOB-134",
+    "job_title": "Data Scientist (End-of-studies Internship)",
+    "company": "Shift Technology",
+    "location": "France - Paris",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Big Data",
+      "Chatbots",
+      "Computer Science",
+      "Engineering",
+      "Machine Learning",
+      "Mathematics"
+    ],
+    "perks": [
+      "Career development",
+      "Competitive pay",
+      "Equity"
+    ],
+    "job_description": "Data Scientist (End-of-studies Internship) at Shift Technology (Internship, Entry-level) in France - Paris. Key skills: Big Data, Chatbots, Computer Science, Engineering, Machine Learning, Mathematics. Perks: Career development, Competitive pay, Equity."
+  },
+  {
+    "job_id": "JOB-135",
+    "job_title": "Data Analyst Intern",
+    "company": "Outrider",
+    "location": "Golden, Colorado",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Athena",
+      "AWS",
+      "Computer Science",
+      "Data analysis",
+      "Data Analytics",
+      "Data visualization"
+    ],
+    "perks": [],
+    "job_description": "Data Analyst Intern at Outrider (Internship, Entry-level) in Golden, Colorado. Key skills: Athena, AWS, Computer Science, Data analysis, Data Analytics, Data visualization."
+  },
+  {
+    "job_id": "JOB-136",
+    "job_title": "Bioinformatics Intern, Machine Learning",
+    "company": "Guardant Health",
+    "location": "Palo Alto, CA, United States",
+    "job_type": "Full Time",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "AWS",
+      "Biology",
+      "Data analysis",
+      "Genetics",
+      "Git",
+      "GitHub"
+    ],
+    "perks": [
+      "Career development",
+      "Health care",
+      "Salary bonus"
+    ],
+    "job_description": "Bioinformatics Intern, Machine Learning at Guardant Health (Full Time, Entry-level) in Palo Alto, CA, United States. Key skills: AWS, Biology, Data analysis, Genetics, Git, GitHub. Perks: Career development, Health care, Salary bonus."
+  },
+  {
+    "job_id": "JOB-137",
+    "job_title": "AI/ML Graduate Intern with Focus on AI Engineering",
+    "company": "Bosch Group",
+    "location": "Mount Prospect, IL, United States",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "AWS",
+      "Azure",
+      "Computer Science",
+      "Engineering",
+      "GCP",
+      "Industrial"
+    ],
+    "perks": [],
+    "job_description": "AI/ML Graduate Intern with Focus on AI Engineering at Bosch Group (Internship, Entry-level) in Mount Prospect, IL, United States. Key skills: AWS, Azure, Computer Science, Engineering, GCP, Industrial."
+  },
+  {
+    "job_id": "JOB-138",
+    "job_title": "Summer Internship - Data Science / Advanced Analytics",
+    "company": "Publicis Groupe",
+    "location": "Los Angeles, CA, United States",
+    "job_type": "Part Time",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Excel",
+      "R"
+    ],
+    "perks": [
+      "Career development"
+    ],
+    "job_description": "Summer Internship - Data Science / Advanced Analytics at Publicis Groupe (Part Time, Entry-level) in Los Angeles, CA, United States. Key skills: Excel, R. Perks: Career development."
+  },
+  {
+    "job_id": "JOB-139",
+    "job_title": "Data Analytics Internship",
+    "company": "Fetch",
+    "location": "Madison, WI",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Data Analytics",
+      "Grafana",
+      "Python",
+      "SQL",
+      "Statistics",
+      "Tableau"
+    ],
+    "perks": [
+      "Flex vacation"
+    ],
+    "job_description": "Data Analytics Internship at Fetch (Internship, Entry-level) in Madison, WI. Key skills: Data Analytics, Grafana, Python, SQL, Statistics, Tableau. Perks: Flex vacation."
+  },
+  {
+    "job_id": "JOB-140",
+    "job_title": "Computer vision Developer Intern",
+    "company": "Vention",
+    "location": "Montr\u00e9al, QC, Canada",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Computer Vision",
+      "Distributed Systems",
+      "GPU",
+      "JavaScript",
+      "Jupyter",
+      "Mathematics"
+    ],
+    "perks": [
+      "Startup environment"
+    ],
+    "job_description": "Computer vision Developer Intern at Vention (Internship, Entry-level) in Montr\u00e9al, QC, Canada. Key skills: Computer Vision, Distributed Systems, GPU, JavaScript, Jupyter, Mathematics. Perks: Startup environment."
+  },
+  {
+    "job_id": "JOB-141",
+    "job_title": "Academic Internship - Deep Learning, Synthetic Data",
+    "company": "Bosch Group",
+    "location": "Braga, Portugal",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Autonomous Driving",
+      "Computer Science",
+      "Computer Vision",
+      "Deep Learning",
+      "Lidar",
+      "Machine Learning"
+    ],
+    "perks": [
+      "Career development",
+      "Flex hours"
+    ],
+    "job_description": "Academic Internship - Deep Learning, Synthetic Data at Bosch Group (Internship, Entry-level) in Braga, Portugal. Key skills: Autonomous Driving, Computer Science, Computer Vision, Deep Learning, Lidar, Machine Learning. Perks: Career development, Flex hours."
+  },
+  {
+    "job_id": "JOB-142",
+    "job_title": "Academic Internship - Deep Learning, Multi-Task",
+    "company": "Bosch Group",
+    "location": "Braga, Portugal",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Computer Science",
+      "Computer Vision",
+      "Deep Learning",
+      "Lidar",
+      "Machine Learning",
+      "Physics"
+    ],
+    "perks": [
+      "Career development",
+      "Flex hours"
+    ],
+    "job_description": "Academic Internship - Deep Learning, Multi-Task at Bosch Group (Internship, Entry-level) in Braga, Portugal. Key skills: Computer Science, Computer Vision, Deep Learning, Lidar, Machine Learning, Physics. Perks: Career development, Flex hours."
+  },
+  {
+    "job_id": "JOB-143",
+    "job_title": "Business Application Intern, Machine Learning",
+    "company": "Guardant Health",
+    "location": "Palo Alto, CA, United States",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Architecture",
+      "AWS",
+      "Computer Science",
+      "Engineering",
+      "Machine Learning",
+      "Privacy"
+    ],
+    "perks": [
+      "Career development",
+      "Equity",
+      "Health care"
+    ],
+    "job_description": "Business Application Intern, Machine Learning at Guardant Health (Internship, Entry-level) in Palo Alto, CA, United States. Key skills: Architecture, AWS, Computer Science, Engineering, Machine Learning, Privacy. Perks: Career development, Equity, Health care."
+  },
+  {
+    "job_id": "JOB-144",
+    "job_title": "Data Analytics Intern",
+    "company": "Snyk",
+    "location": "Boston",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Computer Science",
+      "Data Analytics",
+      "Looker",
+      "Prototyping",
+      "Security",
+      "SQL"
+    ],
+    "perks": [
+      "Career development",
+      "Flex hours",
+      "Flex vacation"
+    ],
+    "job_description": "Data Analytics Intern at Snyk (Internship, Entry-level) in Boston. Key skills: Computer Science, Data Analytics, Looker, Prototyping, Security, SQL. Perks: Career development, Flex hours, Flex vacation."
+  },
+  {
+    "job_id": "JOB-145",
+    "job_title": "Data Sciences Intern(Smart's)",
+    "company": "Publicis Groupe",
+    "location": "Madrid, Spain",
+    "job_type": "Part Time",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Data analysis",
+      "Economics",
+      "Engineering",
+      "Mathematics",
+      ".NET",
+      "RDBMS"
+    ],
+    "perks": [
+      "Startup environment"
+    ],
+    "job_description": "Data Sciences Intern(Smart's) at Publicis Groupe (Part Time, Entry-level) in Madrid, Spain. Key skills: Data analysis, Economics, Engineering, Mathematics, .NET, RDBMS. Perks: Startup environment."
+  },
+  {
+    "job_id": "JOB-146",
+    "job_title": "Internship \u2013 Machine Learning/MLOps Engineer (6 months)",
+    "company": "CGG",
+    "location": "Massy, France",
+    "job_type": "Full Time",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "CI/CD",
+      "Computer Science",
+      "Engineering",
+      "HPC",
+      "Machine Learning",
+      "MLFlow"
+    ],
+    "perks": [
+      "Career development",
+      "Startup environment"
+    ],
+    "job_description": "Internship \u2013 Machine Learning/MLOps Engineer (6 months) at CGG (Full Time, Entry-level) in Massy, France. Key skills: CI/CD, Computer Science, Engineering, HPC, Machine Learning, MLFlow. Perks: Career development, Startup environment."
+  },
+  {
+    "job_id": "JOB-147",
+    "job_title": "Intern, Data Engineering (Summer 2023)",
+    "company": "Western Digital",
+    "location": "San Jose, CA, United States",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "AWS",
+      "Big Data",
+      "Computer Science",
+      "Data analysis",
+      "Data Analytics",
+      "Data pipelines"
+    ],
+    "perks": [
+      "Career development",
+      "Competitive pay",
+      "Equity"
+    ],
+    "job_description": "Intern, Data Engineering (Summer 2023) at Western Digital (Internship, Entry-level) in San Jose, CA, United States. Key skills: AWS, Big Data, Computer Science, Data analysis, Data Analytics, Data pipelines. Perks: Career development, Competitive pay, Equity."
+  },
+  {
+    "job_id": "JOB-148",
+    "job_title": "Internship Embedded AI Engineering",
+    "company": "Bosch Group",
+    "location": "Reutlingen, Germany",
+    "job_type": "Full Time",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Computer Science",
+      "Deep Learning",
+      "Engineering",
+      "Machine Learning",
+      "Mathematics",
+      "Physics"
+    ],
+    "perks": [
+      "Career development"
+    ],
+    "job_description": "Internship Embedded AI Engineering at Bosch Group (Full Time, Entry-level) in Reutlingen, Germany. Key skills: Computer Science, Deep Learning, Engineering, Machine Learning, Mathematics, Physics. Perks: Career development."
+  },
+  {
+    "job_id": "JOB-149",
+    "job_title": "Data Analyst Intern",
+    "company": "Rokt",
+    "location": "New York City, United States",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Agile",
+      "Big Data",
+      "Business Analytics",
+      "Computer Science",
+      "Data analysis",
+      "E-commerce"
+    ],
+    "perks": [
+      "Career development",
+      "Equity",
+      "Home office stipend"
+    ],
+    "job_description": "Data Analyst Intern at Rokt (Internship, Entry-level) in New York City, United States. Key skills: Agile, Big Data, Business Analytics, Computer Science, Data analysis, E-commerce. Perks: Career development, Equity, Home office stipend."
+  },
+  {
+    "job_id": "JOB-150",
+    "job_title": "Computer vision Developer",
+    "company": "Vention",
+    "location": "Montr\u00e9al, QC, Canada",
+    "job_type": "Full Time",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Computer Vision",
+      "Distributed Systems",
+      "GPU",
+      "JavaScript",
+      "Jupyter",
+      "Mathematics"
+    ],
+    "perks": [
+      "Startup environment"
+    ],
+    "job_description": "Computer vision Developer at Vention (Full Time, Entry-level) in Montr\u00e9al, QC, Canada. Key skills: Computer Vision, Distributed Systems, GPU, JavaScript, Jupyter, Mathematics. Perks: Startup environment."
+  },
+  {
+    "job_id": "JOB-151",
+    "job_title": "Intern, Data Engineer",
+    "company": "Abarca Health",
+    "location": "Remote",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Business Intelligence",
+      "Computer Science",
+      "ELT",
+      "Engineering",
+      "Healthcare technology",
+      "Snowflake"
+    ],
+    "perks": [
+      "Flex hours",
+      "Health care"
+    ],
+    "job_description": "Intern, Data Engineer at Abarca Health (Internship, Entry-level) in Remote. Key skills: Business Intelligence, Computer Science, ELT, Engineering, Healthcare technology, Snowflake. Perks: Flex hours, Health care."
+  },
+  {
+    "job_id": "JOB-152",
+    "job_title": "Data Science and Systems Engineers - Summer Intern 2023",
+    "company": "Frazer-Nash Consultancy",
+    "location": "UK, Great Britain, United Kingdom",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Agile",
+      "Computer Science",
+      "Consulting",
+      "Engineering",
+      "Excel",
+      "Mathematics"
+    ],
+    "perks": [
+      "Career development",
+      "Competitive pay",
+      "Flex hours"
+    ],
+    "job_description": "Data Science and Systems Engineers - Summer Intern 2023 at Frazer-Nash Consultancy (Internship, Entry-level) in UK, Great Britain, United Kingdom. Key skills: Agile, Computer Science, Consulting, Engineering, Excel, Mathematics. Perks: Career development, Competitive pay, Flex hours."
+  },
+  {
+    "job_id": "JOB-153",
+    "job_title": "AI Engineer Internship",
+    "company": "Plume Labs",
+    "location": "Paris, \u00cele-de-France, France - Remote",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Agile",
+      "APIs",
+      "Deep Learning",
+      "Keras",
+      "Machine Learning",
+      "NumPy"
+    ],
+    "perks": [
+      "Career development",
+      "Flex hours",
+      "Startup environment"
+    ],
+    "job_description": "AI Engineer Internship at Plume Labs (Internship, Entry-level) in Paris, \u00cele-de-France, France - Remote. Key skills: Agile, APIs, Deep Learning, Keras, Machine Learning, NumPy. Perks: Career development, Flex hours, Startup environment."
+  },
+  {
+    "job_id": "JOB-154",
+    "job_title": "Canada - Early Talent - Supply Chain Data Analyst Intern (Summer 2023)",
+    "company": "Lyft",
+    "location": "Montreal, Canada",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Business Analytics",
+      "Data analysis",
+      "Excel",
+      "Jira",
+      "Power BI",
+      "SQL"
+    ],
+    "perks": [
+      "Health care"
+    ],
+    "job_description": "Canada - Early Talent - Supply Chain Data Analyst Intern (Summer 2023) at Lyft (Internship, Entry-level) in Montreal, Canada. Key skills: Business Analytics, Data analysis, Excel, Jira, Power BI, SQL. Perks: Health care."
+  },
+  {
+    "job_id": "JOB-155",
+    "job_title": "Machine Learning Engineer Intern",
+    "company": "Metropolis",
+    "location": "Seattle, WA or Santa Monica, CA",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Architecture",
+      "Computer Vision",
+      "CUDA",
+      "cuDNN",
+      "Deep Learning",
+      "DenseNet"
+    ],
+    "perks": [
+      "Startup environment"
+    ],
+    "job_description": "Machine Learning Engineer Intern at Metropolis (Internship, Entry-level) in Seattle, WA or Santa Monica, CA. Key skills: Architecture, Computer Vision, CUDA, cuDNN, Deep Learning, DenseNet. Perks: Startup environment."
+  },
+  {
+    "job_id": "JOB-156",
+    "job_title": "AI Scientist Internship",
+    "company": "BenevolentAI",
+    "location": "London, England, United Kingdom",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Architecture",
+      "Biology",
+      "Chemistry",
+      "Computer Science",
+      "Deep Learning",
+      "Drug discovery"
+    ],
+    "perks": [
+      "Career development",
+      "Health care"
+    ],
+    "job_description": "AI Scientist Internship at BenevolentAI (Internship, Entry-level) in London, England, United Kingdom. Key skills: Architecture, Biology, Chemistry, Computer Science, Deep Learning, Drug discovery. Perks: Career development, Health care."
+  },
+  {
+    "job_id": "JOB-157",
+    "job_title": "Spring Internship Program - Machine Learning Engineer (Skopje, Bitola, Ohrid)",
+    "company": "Netcetera",
+    "location": "Skopje, Greater Skopje, North Macedonia",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Computer Science",
+      "Computer Vision",
+      "Deep Learning",
+      "Machine Learning",
+      "NLP",
+      "NumPy"
+    ],
+    "perks": [
+      "Career development",
+      "Conferences",
+      "Flex hours"
+    ],
+    "job_description": "Spring Internship Program - Machine Learning Engineer (Skopje, Bitola, Ohrid) at Netcetera (Internship, Entry-level) in Skopje, Greater Skopje, North Macedonia. Key skills: Computer Science, Computer Vision, Deep Learning, Machine Learning, NLP, NumPy. Perks: Career development, Conferences, Flex hours."
+  },
+  {
+    "job_id": "JOB-158",
+    "job_title": "Stagiaire Data Analyst (F/H/NB)",
+    "company": "Ubisoft",
+    "location": "Bordeaux, France",
+    "job_type": "Full Time",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Airflow",
+      "ETL",
+      "Git",
+      "Hadoop",
+      "PySpark",
+      "Python"
+    ],
+    "perks": [],
+    "job_description": "Stagiaire Data Analyst (F/H/NB) at Ubisoft (Full Time, Entry-level) in Bordeaux, France. Key skills: Airflow, ETL, Git, Hadoop, PySpark, Python."
+  },
+  {
+    "job_id": "JOB-159",
+    "job_title": "Bioinformatics Data Scientist Internship",
+    "company": "BenevolentAI",
+    "location": "London, England, United Kingdom",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Biology",
+      "Causal inference",
+      "Data Analytics",
+      "Data pipelines",
+      "Drug discovery",
+      "Engineering"
+    ],
+    "perks": [
+      "Career development"
+    ],
+    "job_description": "Bioinformatics Data Scientist Internship at BenevolentAI (Internship, Entry-level) in London, England, United Kingdom. Key skills: Biology, Causal inference, Data Analytics, Data pipelines, Drug discovery, Engineering. Perks: Career development."
+  },
+  {
+    "job_id": "JOB-160",
+    "job_title": "Data Science Intern",
+    "company": "Vitol",
+    "location": "London, United Kingdom",
+    "job_type": "Full Time",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "APIs",
+      "Architecture",
+      "Data analysis",
+      "Power BI",
+      "Python",
+      "SQL"
+    ],
+    "perks": [],
+    "job_description": "Data Science Intern at Vitol (Full Time, Entry-level) in London, United Kingdom. Key skills: APIs, Architecture, Data analysis, Power BI, Python, SQL."
+  },
+  {
+    "job_id": "JOB-161",
+    "job_title": "Data Scientist Internship",
+    "company": "BenevolentAI",
+    "location": "London, England, United Kingdom",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Biology",
+      "Data analysis",
+      "Data quality",
+      "Drug discovery",
+      "Jupyter",
+      "Machine Learning"
+    ],
+    "perks": [
+      "Career development"
+    ],
+    "job_description": "Data Scientist Internship at BenevolentAI (Internship, Entry-level) in London, England, United Kingdom. Key skills: Biology, Data analysis, Data quality, Drug discovery, Jupyter, Machine Learning. Perks: Career development."
+  },
+  {
+    "job_id": "JOB-162",
+    "job_title": "Data Science Intern | Greece",
+    "company": "Trust Lab",
+    "location": "Remotely",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Computer Science",
+      "Data analysis",
+      "Data Analytics",
+      "Data Studio",
+      "Engineering",
+      "Machine Learning"
+    ],
+    "perks": [
+      "Career development",
+      "Competitive pay",
+      "Equity"
+    ],
+    "job_description": "Data Science Intern | Greece at Trust Lab (Internship, Entry-level) in Remotely. Key skills: Computer Science, Data analysis, Data Analytics, Data Studio, Engineering, Machine Learning. Perks: Career development, Competitive pay, Equity."
+  },
+  {
+    "job_id": "JOB-163",
+    "job_title": "Summer Internship, Data Scientist | Content Business (US)",
+    "company": "Spotify",
+    "location": "New York City",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Computer Science",
+      "Economics",
+      "Machine Learning",
+      "Mathematics",
+      "ML models",
+      "PhD"
+    ],
+    "perks": [
+      "Career development"
+    ],
+    "job_description": "Summer Internship, Data Scientist | Content Business (US) at Spotify (Internship, Entry-level) in New York City. Key skills: Computer Science, Economics, Machine Learning, Mathematics, ML models, PhD. Perks: Career development."
+  },
+  {
+    "job_id": "JOB-164",
+    "job_title": "Machine Learning Intern",
+    "company": "FarmWise",
+    "location": "Paris, France (Hybrid)",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "AWS",
+      "Computer Vision",
+      "Deep Learning",
+      "GCP",
+      "Git",
+      "GPU"
+    ],
+    "perks": [],
+    "job_description": "Machine Learning Intern at FarmWise (Internship, Entry-level) in Paris, France (Hybrid). Key skills: AWS, Computer Vision, Deep Learning, GCP, Git, GPU."
+  },
+  {
+    "job_id": "JOB-165",
+    "job_title": "Summer Internship, Machine Learning Engineer Intern | Platform Mission (US)",
+    "company": "Spotify",
+    "location": "New York City",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "A/B testing",
+      "Agile",
+      "Cassandra",
+      "Classification",
+      "Data quality",
+      "Flink"
+    ],
+    "perks": [
+      "Career development",
+      "Home office stipend"
+    ],
+    "job_description": "Summer Internship, Machine Learning Engineer Intern | Platform Mission (US) at Spotify (Internship, Entry-level) in New York City. Key skills: A/B testing, Agile, Cassandra, Classification, Data quality, Flink. Perks: Career development, Home office stipend."
+  },
+  {
+    "job_id": "JOB-166",
+    "job_title": "Data Developer Intern",
+    "company": "AccuWeather",
+    "location": "Remote or State College, PA",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "DataOps"
+    ],
+    "perks": [],
+    "job_description": "Data Developer Intern at AccuWeather (Internship, Entry-level) in Remote or State College, PA. Key skills: DataOps."
+  },
+  {
+    "job_id": "JOB-167",
+    "job_title": "Machine Learning Engineering Intern",
+    "company": "Strava",
+    "location": "Remote (USA)",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Computer Science",
+      "Data Mining",
+      "Data pipelines",
+      "Deep Learning",
+      "Engineering",
+      "Hadoop"
+    ],
+    "perks": [
+      "Career development",
+      "Health care",
+      "Team events"
+    ],
+    "job_description": "Machine Learning Engineering Intern at Strava (Internship, Entry-level) in Remote (USA). Key skills: Computer Science, Data Mining, Data pipelines, Deep Learning, Engineering, Hadoop. Perks: Career development, Health care, Team events."
+  },
+  {
+    "job_id": "JOB-168",
+    "job_title": "Climate Data Analyst - Intern (Asset Impact) | Paris or Berlin",
+    "company": "GRESB",
+    "location": "Paris, \u00cele-de-France, France",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Data analysis",
+      "Excel",
+      "Finance",
+      "Python",
+      "R",
+      "RDBMS"
+    ],
+    "perks": [
+      "Career development"
+    ],
+    "job_description": "Climate Data Analyst - Intern (Asset Impact) | Paris or Berlin at GRESB (Internship, Entry-level) in Paris, \u00cele-de-France, France. Key skills: Data analysis, Excel, Finance, Python, R, RDBMS. Perks: Career development."
+  },
+  {
+    "job_id": "JOB-169",
+    "job_title": "Data Science Intern - Causal Inference with Network Interference (Summer 2023)",
+    "company": "Roblox",
+    "location": "San Mateo, CA, United States",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Airflow",
+      "Big Data",
+      "Causal inference",
+      "Computer Science",
+      "Economics",
+      "Engineering"
+    ],
+    "perks": [
+      "Career development",
+      "Equity",
+      "Flex hours"
+    ],
+    "job_description": "Data Science Intern - Causal Inference with Network Interference (Summer 2023) at Roblox (Internship, Entry-level) in San Mateo, CA, United States. Key skills: Airflow, Big Data, Causal inference, Computer Science, Economics, Engineering. Perks: Career development, Equity, Flex hours."
+  },
+  {
+    "job_id": "JOB-170",
+    "job_title": "STAGE - Data Analyst POWER BI - H/F",
+    "company": "Trigo",
+    "location": "Nanterre, France",
+    "job_type": "Full Time",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Excel",
+      "Power BI",
+      "Robotics",
+      "RPA",
+      "SharePoint"
+    ],
+    "perks": [],
+    "job_description": "STAGE - Data Analyst POWER BI - H/F at Trigo (Full Time, Entry-level) in Nanterre, France. Key skills: Excel, Power BI, Robotics, RPA, SharePoint."
+  },
+  {
+    "job_id": "JOB-171",
+    "job_title": "Data Science Intern",
+    "company": "Santen",
+    "location": "Emeryville, CA, United States",
+    "job_type": "Full Time",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Data analysis",
+      "R",
+      "SAS",
+      "Statistics"
+    ],
+    "perks": [
+      "Flex hours",
+      "Startup environment",
+      "Team events"
+    ],
+    "job_description": "Data Science Intern at Santen (Full Time, Entry-level) in Emeryville, CA, United States. Key skills: Data analysis, R, SAS, Statistics. Perks: Flex hours, Startup environment, Team events."
+  },
+  {
+    "job_id": "JOB-172",
+    "job_title": "Summer Internship, Analytics Engineer | Content Business (US)",
+    "company": "Spotify",
+    "location": "New York City",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "APIs",
+      "BigQuery",
+      "Computer Science",
+      "Engineering",
+      "ETL",
+      "PhD"
+    ],
+    "perks": [
+      "Home office stipend",
+      "Startup environment"
+    ],
+    "job_description": "Summer Internship, Analytics Engineer | Content Business (US) at Spotify (Internship, Entry-level) in New York City. Key skills: APIs, BigQuery, Computer Science, Engineering, ETL, PhD. Perks: Home office stipend, Startup environment."
+  },
+  {
+    "job_id": "JOB-173",
+    "job_title": "Artificial Intelligence Research Internship",
+    "company": "Spotlab",
+    "location": "Madrid, Spain",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Caffe",
+      "Computer Science",
+      "Computer Vision",
+      "Deep Learning",
+      "Engineering",
+      "Keras"
+    ],
+    "perks": [
+      "Career development",
+      "Health care",
+      "Startup environment"
+    ],
+    "job_description": "Artificial Intelligence Research Internship at Spotlab (Internship, Entry-level) in Madrid, Spain. Key skills: Caffe, Computer Science, Computer Vision, Deep Learning, Engineering, Keras. Perks: Career development, Health care, Startup environment."
+  },
+  {
+    "job_id": "JOB-174",
+    "job_title": "Data Analytics Internship",
+    "company": "Fetch",
+    "location": "Birmingham, AL",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Data Analytics",
+      "Grafana",
+      "Python",
+      "SQL",
+      "Statistics",
+      "Tableau"
+    ],
+    "perks": [
+      "Flex vacation"
+    ],
+    "job_description": "Data Analytics Internship at Fetch (Internship, Entry-level) in Birmingham, AL. Key skills: Data Analytics, Grafana, Python, SQL, Statistics, Tableau. Perks: Flex vacation."
+  },
+  {
+    "job_id": "JOB-175",
+    "job_title": "Data Engineer Intern",
+    "company": "Sayari",
+    "location": "United States - Remote",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Airflow",
+      "AWS",
+      "Azure",
+      "Engineering",
+      "ETL",
+      "GCP"
+    ],
+    "perks": [
+      "401(k) matching",
+      "Career development",
+      "Competitive pay"
+    ],
+    "job_description": "Data Engineer Intern at Sayari (Internship, Entry-level) in United States - Remote. Key skills: Airflow, AWS, Azure, Engineering, ETL, GCP. Perks: 401(k) matching, Career development, Competitive pay."
+  },
+  {
+    "job_id": "JOB-176",
+    "job_title": "Data Analytics Engineer (Intern)",
+    "company": "Spot AI",
+    "location": "Hayward, California, United States",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "APIs",
+      "AWS",
+      "BigQuery",
+      "Computer Science",
+      "Data Analytics",
+      "Databricks"
+    ],
+    "perks": [
+      "Career development"
+    ],
+    "job_description": "Data Analytics Engineer (Intern) at Spot AI (Internship, Entry-level) in Hayward, California, United States. Key skills: APIs, AWS, BigQuery, Computer Science, Data Analytics, Databricks. Perks: Career development."
+  },
+  {
+    "job_id": "JOB-177",
+    "job_title": "Data Analyst Intern - Summer 2023",
+    "company": "Gameloft",
+    "location": "Toronto, ON, Canada",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Computer Science",
+      "Data visualization",
+      "Mathematics",
+      "SQL",
+      "Statistics"
+    ],
+    "perks": [
+      "Career development",
+      "Flex hours",
+      "Flex vacation"
+    ],
+    "job_description": "Data Analyst Intern - Summer 2023 at Gameloft (Internship, Entry-level) in Toronto, ON, Canada. Key skills: Computer Science, Data visualization, Mathematics, SQL, Statistics. Perks: Career development, Flex hours, Flex vacation."
+  },
+  {
+    "job_id": "JOB-178",
+    "job_title": "Summer Internship, Product Management | Data Management (US)",
+    "company": "Spotify",
+    "location": "New York City",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Agile",
+      "Big Data",
+      "Computer Science",
+      "Data management",
+      "Economics",
+      "Engineering"
+    ],
+    "perks": [
+      "Home office stipend"
+    ],
+    "job_description": "Summer Internship, Product Management | Data Management (US) at Spotify (Internship, Entry-level) in New York City. Key skills: Agile, Big Data, Computer Science, Data management, Economics, Engineering. Perks: Home office stipend."
+  },
+  {
+    "job_id": "JOB-179",
+    "job_title": "Intern | Machine Learning (Generative AI)",
+    "company": "Bosch Group",
+    "location": "Singapore, Singapore",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Computer Science",
+      "Data analysis",
+      "Deep Learning",
+      "EDA",
+      "Engineering",
+      "Feature engineering"
+    ],
+    "perks": [
+      "Career development"
+    ],
+    "job_description": "Intern | Machine Learning (Generative AI) at Bosch Group (Internship, Entry-level) in Singapore, Singapore. Key skills: Computer Science, Data analysis, Deep Learning, EDA, Engineering, Feature engineering. Perks: Career development."
+  },
+  {
+    "job_id": "JOB-180",
+    "job_title": "Data Science Intern - Payments",
+    "company": "Gojek",
+    "location": "Singapore",
+    "job_type": "Internship",
+    "experience_requirements": "Entry-level",
+    "required_skills": [
+      "Caffe",
+      "Computer Vision",
+      "Deep Learning",
+      "Engineering",
+      "Keras",
+      "Machine Learning"
+    ],
+    "perks": [
+      "Team events"
+    ],
+    "job_description": "Data Science Intern - Payments at Gojek (Internship, Entry-level) in Singapore. Key skills: Caffe, Computer Vision, Deep Learning, Engineering, Keras, Machine Learning. Perks: Team events."
+  }
+]

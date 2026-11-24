@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AI Career Companion — Internship Matcher</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 920px;
+      margin: 2rem auto;
+      padding: 0 1rem;
+      background: #f6f8fa;
+      color: #1f2328;
+    }
+    h1 { margin-bottom: 0.25rem; }
+    .subtitle { color: #57606a; margin-top: 0; margin-bottom: 1.5rem; }
+    form {
+      background: #ffffff;
+      padding: 1.25rem;
+      border: 1px solid #d0d7de;
+      border-radius: 8px;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 0.9rem;
+    }
+    .full { grid-column: 1 / -1; }
+    label { display: block; font-weight: 600; font-size: 0.9rem; margin-bottom: 0.3rem; }
+    input, textarea {
+      width: 100%;
+      box-sizing: border-box;
+      padding: 0.55rem 0.65rem;
+      border: 1px solid #d0d7de;
+      border-radius: 6px;
+      font-size: 0.95rem;
+    }
+    button {
+      background: #1f6feb;
+      color: #ffffff;
+      border: none;
+      padding: 0.7rem 1.2rem;
+      border-radius: 6px;
+      font-size: 0.95rem;
+      font-weight: 600;
+      cursor: pointer;
+    }
+    button:hover { background: #1a5cc4; }
+    .results { margin-top: 2rem; display: grid; gap: 1rem; }
+    .card {
+      background: #ffffff;
+      border: 1px solid #d0d7de;
+      border-radius: 8px;
+      padding: 1rem 1.25rem;
+    }
+    .card-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      gap: 1rem;
+      flex-wrap: wrap;
+    }
+    .score {
+      background: #ddf4ff;
+      color: #0969da;
+      padding: 0.25rem 0.6rem;
+      border-radius: 999px;
+      font-weight: 700;
+      font-size: 0.9rem;
+    }
+    .meta { color: #57606a; font-size: 0.9rem; margin: 0.35rem 0 0.75rem; }
+    .skills-row { font-size: 0.9rem; margin: 0.35rem 0; }
+    .reason {
+      margin-top: 0.6rem;
+      padding: 0.65rem 0.8rem;
+      background: #f6f8fa;
+      border-left: 3px solid #1f6feb;
+      border-radius: 4px;
+      font-size: 0.93rem;
+      line-height: 1.45;
+    }
+    @media (max-width: 640px) {
+      form { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+  <h1>AI Career Companion Agent</h1>
+  <p class="subtitle">Match your skills and projects against curated internship listings with RAG + LLM reasoning.</p>
+
+  <form action="/match" method="post">
+    <div>
+      <label for="name">Name</label>
+      <input id="name" name="name" type="text" value="{{ profile.name }}" />
+    </div>
+    <div>
+      <label for="preferred_role">Target Role</label>
+      <input id="preferred_role" name="preferred_role" type="text" value="{{ profile.preferred_role }}" />
+    </div>
+    <div>
+      <label for="preferred_location">Preferred Location</label>
+      <input id="preferred_location" name="preferred_location" type="text" value="{{ profile.preferred_location }}" />
+    </div>
+    <div>
+      <label for="education">Education</label>
+      <input id="education" name="education" type="text" value="{{ profile.education }}" />
+    </div>
+    <div class="full">
+      <label for="skills">Skills (comma-separated)</label>
+      <input id="skills" name="skills" type="text" value="{{ skills_text }}" />
+    </div>
+    <div class="full">
+      <label for="projects">Projects (comma-separated)</label>
+      <textarea id="projects" name="projects" rows="2">{{ projects_text }}</textarea>
+    </div>
+    <div class="full">
+      <button type="submit">Find Matching Internships</button>
+    </div>
+  </form>
+
+  {% if submitted %}
+    <div class="results">
+      <h2>Top Ranked Matches ({{ matches | length }})</h2>
+      {% if matches %}
+        {% for item in matches %}
+          <div class="card">
+            <div class="card-header">
+              <strong>#{{ item.rank }} — {{ item.job_title }} @ {{ item.company }}</strong>
+              <span class="score">Score: {{ item.match_score }} / 100</span>
+            </div>
+            <div class="meta">Location: {{ item.location }}</div>
+            <div class="skills-row">
+              <strong>Matched Skills:</strong>
+              {{ item.matched_skills | join(", ") if item.matched_skills else "None" }}
+            </div>
+            <div class="skills-row">
+              <strong>Missing Technical Skills:</strong>
+              {{ item.missing_skills | join(", ") if item.missing_skills else "None" }}
+            </div>
+            <div class="reason">
+              <strong>Why:</strong> {{ item.reasoning }}
+            </div>
+          </div>
+        {% endfor %}
+      {% else %}
+        <div class="card">No matching internships found for this profile.</div>
+      {% endif %}
+    </div>
+  {% endif %}
+</body>
+</html>
