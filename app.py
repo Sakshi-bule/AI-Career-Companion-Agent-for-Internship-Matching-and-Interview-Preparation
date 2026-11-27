@@ -1,116 +1,89 @@
-import logging
-import shutil
-import sys
-import uuid
-from contextlib import asynccontextmanager
-from pathlib import Path
-
-import uvicorn
-from fastapi import FastAPI, File, Form, HTTPException, UploadFile
+from fastapi import FastAPI, Form, Request
 from fastapi.responses import HTMLResponse
+from fastapi.templating import Jinja2Templates
+from src.matching_agent import JobResumeMatcher
+from src.rag_pipeline import InternshipRAG
 
-BASE_DIR = Path(__file__).resolve().parent
-if str(BASE_DIR) not in sys.path:
-    sys.path.insert(0, str(BASE_DIR))
+app = FastAPI(title="AI Career Companion Agent")
+templates = Jinja2Templates(directory="templates")
 
-logging.basicConfig(level=logging.INFO)
-logger = logging.getLogger("career_companion")
+rag = InternshipRAG()
+jobs = rag.load_jobs("data/internships.json")
+rag.index_jobs(jobs)
+matcher = JobResumeMatcher(rag)
 
-from src.database import get_all_profiles, init_db, save_student_profile
-from src.extractor import parse_resume_with_llm
-from src.parser import extract_text_from_pdf
+DEFAULT_PROFILE = {
+    "name": "Sakshi Bule",
+    "preferred_role": "Data Science / ML Intern",
+    "preferred_location": "Remote",
+    "education": "B.E. Computer Engineering",
+    "skills": [
+        "Python",
+        "Pandas",
+        "Scikit-learn",
+        "TensorFlow",
+        "Keras",
+        "OpenCV",
+        "SQL",
+    ],
+    "projects": [
+        "Home Loan Default Prediction",
+        "Rice Leaf Disease Classification",
+        "Dog Breed Classifier",
+    ],
+}
 
-DATA_DIR = BASE_DIR / "data"
-TEMPLATE_PATH = BASE_DIR / "templates" / "index.html"
-MAX_UPLOAD_BYTES = 10 * 1024 * 1024  # 10 MB
 
-
-@asynccontextmanager
-async def lifespan(app: FastAPI):
-    DATA_DIR.mkdir(parents=True, exist_ok=True)
-    init_db()
-    logger.info("Database initialised.")
-    yield
-
-
-app = FastAPI(title="AI Career Companion Agent", lifespan=lifespan)
+def _parse_csv(raw: str | None) -> list[str]:
+    if not raw:
+        return []
+    return [item.strip() for item in raw.split(",") if item.strip()]
 
 
 @app.get("/", response_class=HTMLResponse)
-async def home():
-    return HTMLResponse(TEMPLATE_PATH.read_text(encoding="utf-8"))
+async def home(request: Request):
+    return templates.TemplateResponse(
+        request=request,
+        name="index.html",
+        context={
+            "profile": DEFAULT_PROFILE,
+            "skills_text": ", ".join(DEFAULT_PROFILE["skills"]),
+            "projects_text": ", ".join(DEFAULT_PROFILE["projects"]),
+            "matches": [],
+            "submitted": False,
+        },
+    )
 
 
-@app.get("/api/profiles")
-async def list_profiles():
-    try:
-        return get_all_profiles()
-    except Exception as exc:
-        logger.exception("Failed to load profiles")
-        raise HTTPException(status_code=500, detail=f"Could not load profiles: {exc}")
-
-
-@app.post("/api/profiles/upload")
-def upload_profile(
-    full_name: str = Form(...),
-    email: str = Form(...),
-    preferred_role: str = Form(...),
-    preferred_location: str = Form(...),
-    resume: UploadFile = File(...),
+@app.post("/match", response_class=HTMLResponse)
+async def match_internships(
+    request: Request,
+    name: str = Form("Sakshi Bule"),
+    preferred_role: str = Form("Data Science / ML Intern"),
+    preferred_location: str = Form("Remote"),
+    education: str = Form("B.E. Computer Engineering"),
+    skills: str = Form(""),
+    projects: str = Form(""),
+    top_k: int = Form(5),
 ):
-    # Sync endpoint on purpose: PDF parsing and the Gemini call are blocking,
-    # so FastAPI runs this in a worker thread instead of stalling the event loop.
-    filename = resume.filename or ""
-    if not filename.lower().endswith(".pdf"):
-        raise HTTPException(status_code=400, detail="Please upload a PDF file.")
+    profile = {
+        "name": name.strip() or "Sakshi Bule",
+        "preferred_role": preferred_role.strip(),
+        "preferred_location": preferred_location.strip(),
+        "education": education.strip(),
+        "skills": _parse_csv(skills),
+        "projects": _parse_csv(projects),
+    }
+    ranked_matches = matcher.match(profile, top_k=max(1, min(top_k, 10)))
 
-    DATA_DIR.mkdir(parents=True, exist_ok=True)
-    saved_path = DATA_DIR / f"{uuid.uuid4().hex}.pdf"
-
-    try:
-        with saved_path.open("wb") as out:
-            shutil.copyfileobj(resume.file, out)
-
-        if saved_path.stat().st_size > MAX_UPLOAD_BYTES:
-            raise HTTPException(status_code=413, detail="PDF is larger than 10 MB.")
-
-        raw_text = extract_text_from_pdf(str(saved_path))
-        if not raw_text:
-            raise HTTPException(
-                status_code=422,
-                detail="No text found in this PDF. Scanned resumes are not supported.",
-            )
-
-        profile = parse_resume_with_llm(raw_text)
-
-        # Form inputs take priority over what the model extracted.
-        profile.full_name = full_name.strip() or profile.full_name
-        profile.email = email.strip() or profile.email
-        profile.preferred_role = preferred_role.strip() or profile.preferred_role
-        profile.preferred_location = (
-            preferred_location.strip() or profile.preferred_location
-        )
-
-        profile_id = save_student_profile(profile)
-        return {
-            "status": "success",
-            "id": profile_id,
-            "profile": profile.model_dump(),
-        }
-
-    except HTTPException:
-        raise
-    except RuntimeError as exc:
-        logger.error("Configuration error: %s", exc)
-        raise HTTPException(status_code=500, detail=str(exc))
-    except Exception as exc:
-        logger.exception("Resume processing failed")
-        raise HTTPException(
-            status_code=500, detail=f"Failed to process resume: {exc}"
-        )
-    finally:
-        resume.file.close()
-
-
-if __name__ == "__main__":
-    uvicorn.run("app:app", host="127.0.0.1", port=8000, reload=True)
+    return templates.TemplateResponse(
+        request=request,
+        name="index.html",
+        context={
+            "profile": profile,
+            "skills_text": skills,
+            "projects_text": projects,
+            "matches": ranked_matches,
+            "submitted": True,
+        },
+    )
